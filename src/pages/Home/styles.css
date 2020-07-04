@@ -1,0 +1,9037 @@
+.mediaViewInfo {
+    --web-view-name: institucional;
+    --web-view-id: institucional;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: institucional;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#institucional {
+    position: absolute;
+    width: 100%;
+    height: 3668px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: institucional;
+    --web-view-id: institucional;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Ret_ngulo_1 {
+    position: absolute;
+    overflow: visible;
+    width: 1403px;
+    height: 842px;
+    left: -13px;
+    top: -29px;
+}
+.Ret_ngulo_2 {
+    position: absolute;
+    overflow: visible;
+    width: 474px;
+    height: 886px;
+    left: 999px;
+    top: 0px;
+}
+#Grupo_de_m_scara_2 {
+    position: absolute;
+    width: 1369px;
+    height: 376px;
+    left: -2px;
+    top: 3122px;
+    overflow: visible;
+}
+#Ret_ngulo_2318 {
+    opacity: 0.868;
+}
+.Ret_ngulo_2318 {
+    position: absolute;
+    overflow: visible;
+    width: 1369px;
+    height: 376px;
+    left: -2px;
+    top: 3122px;
+}
+#Grupo_9891 {
+    opacity: 0.18;
+    transform: matrix(1,0,0,1,700.6139,857.5533) rotate(-90deg);
+    transform-origin: center;
+    position: absolute;
+    width: 295.854px;
+    height: 295.854px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 290.053px;
+}
+.Elipse_5 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 261.048px;
+}
+.Elipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 232.042px;
+}
+.Elipse_7 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 203.037px;
+}
+.Elipse_8 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 174.032px;
+}
+.Elipse_9 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 145.026px;
+}
+.Elipse_10 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 116.021px;
+}
+.Elipse_11 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 87.016px;
+}
+.Elipse_12 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 58.01px;
+}
+.Elipse_13 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 29.005px;
+}
+.Elipse_14 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 0px;
+}
+.Elipse_15 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 290.053px;
+}
+.Elipse_16 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 261.048px;
+}
+.Elipse_17 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 232.042px;
+}
+.Elipse_18 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 203.037px;
+}
+.Elipse_19 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 174.032px;
+}
+.Elipse_20 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 145.026px;
+}
+.Elipse_21 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 116.021px;
+}
+.Elipse_22 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 87.016px;
+}
+.Elipse_23 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 58.01px;
+}
+.Elipse_24 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 29.005px;
+}
+.Elipse_25 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 0px;
+}
+.Elipse_26 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 290.053px;
+}
+.Elipse_27 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 261.048px;
+}
+.Elipse_28 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 232.042px;
+}
+.Elipse_29 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 203.037px;
+}
+.Elipse_30 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 174.032px;
+}
+.Elipse_31 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 145.026px;
+}
+.Elipse_32 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 116.021px;
+}
+.Elipse_33 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 87.016px;
+}
+.Elipse_34 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 58.01px;
+}
+.Elipse_35 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 29.005px;
+}
+.Elipse_36 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 0px;
+}
+.Elipse_37 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 290.053px;
+}
+.Elipse_38 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 261.048px;
+}
+.Elipse_39 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 232.042px;
+}
+.Elipse_40 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 203.037px;
+}
+.Elipse_41 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 174.032px;
+}
+.Elipse_42 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 145.026px;
+}
+.Elipse_43 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 116.021px;
+}
+.Elipse_44 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 87.016px;
+}
+.Elipse_45 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 58.01px;
+}
+.Elipse_46 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 29.005px;
+}
+.Elipse_47 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 0px;
+}
+.Elipse_48 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 290.053px;
+}
+.Elipse_49 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 261.048px;
+}
+.Elipse_50 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 232.042px;
+}
+.Elipse_51 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 203.037px;
+}
+.Elipse_52 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 174.032px;
+}
+.Elipse_53 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 145.026px;
+}
+.Elipse_54 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 116.021px;
+}
+.Elipse_55 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 87.016px;
+}
+.Elipse_56 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 58.01px;
+}
+.Elipse_57 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 29.005px;
+}
+.Elipse_58 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 0px;
+}
+.Elipse_59 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 290.053px;
+}
+.Elipse_60 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 261.048px;
+}
+.Elipse_61 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 232.042px;
+}
+.Elipse_62 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 203.037px;
+}
+.Elipse_63 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 174.032px;
+}
+.Elipse_64 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 145.026px;
+}
+.Elipse_65 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 116.021px;
+}
+.Elipse_66 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 87.016px;
+}
+.Elipse_67 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 58.01px;
+}
+.Elipse_68 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 29.005px;
+}
+.Elipse_69 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 0px;
+}
+.Elipse_70 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 290.053px;
+}
+.Elipse_71 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 261.048px;
+}
+.Elipse_72 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 232.042px;
+}
+.Elipse_73 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 203.037px;
+}
+.Elipse_74 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 174.032px;
+}
+.Elipse_75 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 145.026px;
+}
+.Elipse_76 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 116.021px;
+}
+.Elipse_77 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 87.016px;
+}
+.Elipse_78 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 58.01px;
+}
+.Elipse_79 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 29.005px;
+}
+.Elipse_80 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 0px;
+}
+.Elipse_81 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 290.053px;
+}
+.Elipse_82 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 261.048px;
+}
+.Elipse_83 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 232.042px;
+}
+.Elipse_84 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 203.037px;
+}
+.Elipse_85 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 174.032px;
+}
+.Elipse_86 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 145.026px;
+}
+.Elipse_87 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 116.021px;
+}
+.Elipse_88 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 87.016px;
+}
+.Elipse_89 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 58.01px;
+}
+.Elipse_90 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 29.005px;
+}
+.Elipse_91 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 0px;
+}
+.Elipse_92 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 290.053px;
+}
+.Elipse_93 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 261.048px;
+}
+.Elipse_94 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 232.042px;
+}
+.Elipse_95 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 203.037px;
+}
+.Elipse_96 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 174.032px;
+}
+.Elipse_97 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 145.026px;
+}
+.Elipse_98 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 116.021px;
+}
+.Elipse_99 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 87.016px;
+}
+.Elipse_100 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 58.01px;
+}
+.Elipse_101 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 29.005px;
+}
+.Elipse_102 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 0px;
+}
+.Elipse_103 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 290.053px;
+}
+.Elipse_104 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 261.048px;
+}
+.Elipse_105 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 232.042px;
+}
+.Elipse_106 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 203.037px;
+}
+.Elipse_107 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 174.032px;
+}
+.Elipse_108 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 145.026px;
+}
+.Elipse_109 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 116.021px;
+}
+.Elipse_110 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 87.016px;
+}
+.Elipse_111 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 58.01px;
+}
+.Elipse_112 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 29.005px;
+}
+.Elipse_113 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 0px;
+}
+.Elipse_114 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 290.053px;
+}
+.Elipse_115 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 261.048px;
+}
+.Elipse_116 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 232.042px;
+}
+.Elipse_117 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 203.037px;
+}
+.Elipse_118 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 174.032px;
+}
+.Elipse_119 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 145.026px;
+}
+.Elipse_120 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 116.021px;
+}
+.Elipse_121 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 87.016px;
+}
+.Elipse_122 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 58.01px;
+}
+.Elipse_123 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 29.005px;
+}
+.Elipse_124 {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 0px;
+}
+.Ret_ngulo_26 {
+    position: absolute;
+    overflow: visible;
+    width: 1075px;
+    height: 655px;
+    left: 353px;
+    top: 2350px;
+}
+#Vamos_sair_para_comer {
+    position: absolute;
+    left: 107px;
+    top: 269px;
+    overflow: visible;
+    width: 580px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    color: rgba(46,38,111,1);
+}
+#com_seguran_a_ {
+    position: absolute;
+    left: 107px;
+    top: 324px;
+    overflow: visible;
+    width: 416px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    color: rgba(37,88,230,1);
+}
+.Ret_ngulo_3 {
+    filter: drop-shadow(0px 17px 16px rgba(235, 241, 245, 0.549));
+    position: absolute;
+    overflow: visible;
+    width: 529px;
+    height: 118px;
+    left: 107px;
+    top: 543px;
+}
+#Infome_a_sua_cidade {
+    position: absolute;
+    left: 134px;
+    top: 569px;
+    overflow: visible;
+    width: 145px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(69,79,99,1);
+}
+#Header__19 {
+    position: absolute;
+    width: 590.278px;
+    height: 19px;
+    left: 643.092px;
+    top: 88.036px;
+    overflow: visible;
+}
+#Menu_Two {
+    position: absolute;
+    left: 194.756px;
+    top: 0px;
+    overflow: visible;
+    width: 145px;
+    white-space: nowrap;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(46,38,111,1);
+}
+#Menu_Two_ea {
+    position: absolute;
+    left: 424.278px;
+    top: 0px;
+    overflow: visible;
+    width: 167px;
+    white-space: nowrap;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(37,88,230,1);
+}
+#Menu_One {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 131px;
+    white-space: nowrap;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(46,38,111,1);
+}
+#Agora_ficou__mais_seguros_sair {
+    position: absolute;
+    left: 110px;
+    top: 947px;
+    overflow: visible;
+    width: 575px;
+    white-space: nowrap;
+    line-height: 55px;
+    margin-top: -5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(46,38,111,1);
+    letter-spacing: -0.2px;
+}
+#Com_a_ajuda_do_Sebrae__listamo {
+    position: absolute;
+    left: 670px;
+    top: 2678px;
+    overflow: visible;
+    width: 423px;
+    height: 217px;
+    line-height: 29px;
+    margin-top: -4px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(46,38,111,1);
+}
+#Grupo_66 {
+    opacity: 0.18;
+    transform: matrix(1,0,0,1,173.7802,2523.5447) rotate(-90deg);
+    transform-origin: center;
+    position: absolute;
+    width: 295.854px;
+    height: 295.854px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_4_ef {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 290.052px;
+}
+.Elipse_5_eg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 261.047px;
+}
+.Elipse_6_eh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 232.042px;
+}
+.Elipse_7_ei {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 203.037px;
+}
+.Elipse_8_ej {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 174.031px;
+}
+.Elipse_9_ek {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 145.026px;
+}
+.Elipse_10_el {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 116.021px;
+}
+.Elipse_11_em {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 87.015px;
+}
+.Elipse_12_en {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 58.01px;
+}
+.Elipse_13_eo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 29.005px;
+}
+.Elipse_14_ep {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 0px;
+}
+.Elipse_15_eq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 290.052px;
+}
+.Elipse_16_er {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 261.047px;
+}
+.Elipse_17_es {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 232.042px;
+}
+.Elipse_18_et {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 203.037px;
+}
+.Elipse_19_eu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 174.031px;
+}
+.Elipse_20_ev {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 145.026px;
+}
+.Elipse_21_ew {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 116.021px;
+}
+.Elipse_22_ex {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 87.015px;
+}
+.Elipse_23_ey {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 58.01px;
+}
+.Elipse_24_ez {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 29.005px;
+}
+.Elipse_25_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 0px;
+}
+.Elipse_26_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 290.052px;
+}
+.Elipse_27_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 261.047px;
+}
+.Elipse_28_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 232.042px;
+}
+.Elipse_29_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 203.037px;
+}
+.Elipse_30_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 174.031px;
+}
+.Elipse_31_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 145.026px;
+}
+.Elipse_32_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 116.021px;
+}
+.Elipse_33_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 87.015px;
+}
+.Elipse_34_e {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 58.01px;
+}
+.Elipse_35_fa {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 29.005px;
+}
+.Elipse_36_fb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 0px;
+}
+.Elipse_37_fc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 290.052px;
+}
+.Elipse_38_fd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 261.047px;
+}
+.Elipse_39_fe {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 232.042px;
+}
+.Elipse_40_ff {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 203.037px;
+}
+.Elipse_41_fg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 174.031px;
+}
+.Elipse_42_fh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 145.026px;
+}
+.Elipse_43_fi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 116.021px;
+}
+.Elipse_44_fj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 87.015px;
+}
+.Elipse_45_fk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 58.01px;
+}
+.Elipse_46_fl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 29.005px;
+}
+.Elipse_47_fm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 0px;
+}
+.Elipse_48_fn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 290.052px;
+}
+.Elipse_49_fo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 261.047px;
+}
+.Elipse_50_fp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 232.042px;
+}
+.Elipse_51_fq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 203.037px;
+}
+.Elipse_52_fr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 174.031px;
+}
+.Elipse_53_fs {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 145.026px;
+}
+.Elipse_54_ft {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 116.021px;
+}
+.Elipse_55_fu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 87.015px;
+}
+.Elipse_56_fv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 58.01px;
+}
+.Elipse_57_fw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 29.005px;
+}
+.Elipse_58_fx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 0px;
+}
+.Elipse_59_fy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 290.052px;
+}
+.Elipse_60_fz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 261.047px;
+}
+.Elipse_61_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 232.042px;
+}
+.Elipse_62_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 203.037px;
+}
+.Elipse_63_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 174.031px;
+}
+.Elipse_64_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 145.026px;
+}
+.Elipse_65_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 116.021px;
+}
+.Elipse_66_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 87.015px;
+}
+.Elipse_67_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 58.01px;
+}
+.Elipse_68_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 29.005px;
+}
+.Elipse_69_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 0px;
+}
+.Elipse_70_f {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 290.052px;
+}
+.Elipse_71_ga {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 261.047px;
+}
+.Elipse_72_gb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 232.042px;
+}
+.Elipse_73_gc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 203.037px;
+}
+.Elipse_74_gd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 174.031px;
+}
+.Elipse_75_ge {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 145.026px;
+}
+.Elipse_76_gf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 116.021px;
+}
+.Elipse_77_gg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 87.015px;
+}
+.Elipse_78_gh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 58.01px;
+}
+.Elipse_79_gi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 29.005px;
+}
+.Elipse_80_gj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 0px;
+}
+.Elipse_81_gk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 290.052px;
+}
+.Elipse_82_gl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 261.047px;
+}
+.Elipse_83_gm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 232.042px;
+}
+.Elipse_84_gn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 203.037px;
+}
+.Elipse_85_go {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 174.031px;
+}
+.Elipse_86_gp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 145.026px;
+}
+.Elipse_87_gq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 116.021px;
+}
+.Elipse_88_gr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 87.015px;
+}
+.Elipse_89_gs {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 58.01px;
+}
+.Elipse_90_gt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 29.005px;
+}
+.Elipse_91_gu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 0px;
+}
+.Elipse_92_gv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 290.052px;
+}
+.Elipse_93_gw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 261.047px;
+}
+.Elipse_94_gx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 232.042px;
+}
+.Elipse_95_gy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 203.037px;
+}
+.Elipse_96_gz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 174.031px;
+}
+.Elipse_97_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 145.026px;
+}
+.Elipse_98_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 116.021px;
+}
+.Elipse_99_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 87.015px;
+}
+.Elipse_100_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 58.01px;
+}
+.Elipse_101_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 29.005px;
+}
+.Elipse_102_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 0px;
+}
+.Elipse_103_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 290.052px;
+}
+.Elipse_104_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 261.047px;
+}
+.Elipse_105_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 232.042px;
+}
+.Elipse_106_g {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 203.037px;
+}
+.Elipse_107_ha {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 174.031px;
+}
+.Elipse_108_hb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 145.026px;
+}
+.Elipse_109_hc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 116.021px;
+}
+.Elipse_110_hd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 87.015px;
+}
+.Elipse_111_he {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 58.01px;
+}
+.Elipse_112_hf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 29.005px;
+}
+.Elipse_113_hg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 0px;
+}
+.Elipse_114_hh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 290.052px;
+}
+.Elipse_115_hi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 261.047px;
+}
+.Elipse_116_hj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 232.042px;
+}
+.Elipse_117_hk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 203.037px;
+}
+.Elipse_118_hl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 174.031px;
+}
+.Elipse_119_hm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 145.026px;
+}
+.Elipse_120_hn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 116.021px;
+}
+.Elipse_121_ho {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 87.015px;
+}
+.Elipse_122_hp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 58.01px;
+}
+.Elipse_123_hq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 29.005px;
+}
+.Elipse_124_hr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 0px;
+}
+#Grupo_9893 {
+    opacity: 0.18;
+    transform: matrix(1,0,0,1,560.8854,2241.2361) rotate(-90deg);
+    transform-origin: center;
+    position: absolute;
+    width: 295.854px;
+    height: 295.854px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_4_ht {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 290.052px;
+}
+.Elipse_5_hu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 261.047px;
+}
+.Elipse_6_hv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 232.042px;
+}
+.Elipse_7_hw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 203.037px;
+}
+.Elipse_8_hx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 174.031px;
+}
+.Elipse_9_hy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 145.026px;
+}
+.Elipse_10_hz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 116.021px;
+}
+.Elipse_11_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 87.015px;
+}
+.Elipse_12_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 58.01px;
+}
+.Elipse_13_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 29.005px;
+}
+.Elipse_14_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 0px;
+}
+.Elipse_15_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 290.052px;
+}
+.Elipse_16_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 261.047px;
+}
+.Elipse_17_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 232.042px;
+}
+.Elipse_18_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 203.037px;
+}
+.Elipse_19_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 174.031px;
+}
+.Elipse_20_h {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 145.026px;
+}
+.Elipse_21_ia {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 116.021px;
+}
+.Elipse_22_ib {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 87.015px;
+}
+.Elipse_23_ic {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 58.01px;
+}
+.Elipse_24_id {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 29.005px;
+}
+.Elipse_25_ie {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 0px;
+}
+.Elipse_26_if {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 290.052px;
+}
+.Elipse_27_ig {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 261.047px;
+}
+.Elipse_28_ih {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 232.042px;
+}
+.Elipse_29_ii {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 203.037px;
+}
+.Elipse_30_ij {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 174.031px;
+}
+.Elipse_31_ik {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 145.026px;
+}
+.Elipse_32_il {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 116.021px;
+}
+.Elipse_33_im {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 87.015px;
+}
+.Elipse_34_in {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 58.01px;
+}
+.Elipse_35_io {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 29.005px;
+}
+.Elipse_36_ip {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 0px;
+}
+.Elipse_37_iq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 290.052px;
+}
+.Elipse_38_ir {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 261.047px;
+}
+.Elipse_39_is {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 232.042px;
+}
+.Elipse_40_it {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 203.037px;
+}
+.Elipse_41_iu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 174.031px;
+}
+.Elipse_42_iv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 145.026px;
+}
+.Elipse_43_iw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 116.021px;
+}
+.Elipse_44_ix {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 87.015px;
+}
+.Elipse_45_iy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 58.01px;
+}
+.Elipse_46_iz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 29.005px;
+}
+.Elipse_47_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 0px;
+}
+.Elipse_48_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 290.052px;
+}
+.Elipse_49_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 261.047px;
+}
+.Elipse_50_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 232.042px;
+}
+.Elipse_51_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 203.037px;
+}
+.Elipse_52_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 174.031px;
+}
+.Elipse_53_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 145.026px;
+}
+.Elipse_54_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 116.021px;
+}
+.Elipse_55_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 87.015px;
+}
+.Elipse_56_i {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 58.01px;
+}
+.Elipse_57_ja {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 29.005px;
+}
+.Elipse_58_jb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 0px;
+}
+.Elipse_59_jc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 290.052px;
+}
+.Elipse_60_jd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 261.047px;
+}
+.Elipse_61_je {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 232.042px;
+}
+.Elipse_62_jf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 203.037px;
+}
+.Elipse_63_jg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 174.031px;
+}
+.Elipse_64_jh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 145.026px;
+}
+.Elipse_65_ji {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 116.021px;
+}
+.Elipse_66_jj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 87.015px;
+}
+.Elipse_67_jk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 58.01px;
+}
+.Elipse_68_jl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 29.005px;
+}
+.Elipse_69_jm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 0px;
+}
+.Elipse_70_jn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 290.052px;
+}
+.Elipse_71_jo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 261.047px;
+}
+.Elipse_72_jp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 232.042px;
+}
+.Elipse_73_jq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 203.037px;
+}
+.Elipse_74_jr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 174.031px;
+}
+.Elipse_75_js {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 145.026px;
+}
+.Elipse_76_jt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 116.021px;
+}
+.Elipse_77_ju {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 87.015px;
+}
+.Elipse_78_jv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 58.01px;
+}
+.Elipse_79_jw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 29.005px;
+}
+.Elipse_80_jx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 0px;
+}
+.Elipse_81_jy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 290.052px;
+}
+.Elipse_82_jz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 261.047px;
+}
+.Elipse_83_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 232.042px;
+}
+.Elipse_84_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 203.037px;
+}
+.Elipse_85_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 174.031px;
+}
+.Elipse_86_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 145.026px;
+}
+.Elipse_87_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 116.021px;
+}
+.Elipse_88_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 87.015px;
+}
+.Elipse_89_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 58.01px;
+}
+.Elipse_90_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 29.005px;
+}
+.Elipse_91_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 0px;
+}
+.Elipse_92_j {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 290.052px;
+}
+.Elipse_93_ka {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 261.047px;
+}
+.Elipse_94_kb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 232.042px;
+}
+.Elipse_95_kc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 203.037px;
+}
+.Elipse_96_kd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 174.031px;
+}
+.Elipse_97_ke {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 145.026px;
+}
+.Elipse_98_kf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 116.021px;
+}
+.Elipse_99_kg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 87.015px;
+}
+.Elipse_100_kh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 58.01px;
+}
+.Elipse_101_ki {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 29.005px;
+}
+.Elipse_102_kj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 0px;
+}
+.Elipse_103_kk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 290.052px;
+}
+.Elipse_104_kl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 261.047px;
+}
+.Elipse_105_km {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 232.042px;
+}
+.Elipse_106_kn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 203.037px;
+}
+.Elipse_107_ko {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 174.031px;
+}
+.Elipse_108_kp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 145.026px;
+}
+.Elipse_109_kq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 116.021px;
+}
+.Elipse_110_kr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 87.015px;
+}
+.Elipse_111_ks {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 58.01px;
+}
+.Elipse_112_kt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 29.005px;
+}
+.Elipse_113_ku {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 0px;
+}
+.Elipse_114_kv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 290.052px;
+}
+.Elipse_115_kw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 261.047px;
+}
+.Elipse_116_kx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 232.042px;
+}
+.Elipse_117_ky {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 203.037px;
+}
+.Elipse_118_kz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 174.031px;
+}
+.Elipse_119_k {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 145.026px;
+}
+.Elipse_120_k {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 116.021px;
+}
+.Elipse_121_k {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 87.015px;
+}
+.Elipse_122_k {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 58.01px;
+}
+.Elipse_123_k {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 29.005px;
+}
+.Elipse_124_k {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 0px;
+}
+#Sou_restaurante__quero_me_cada {
+    position: absolute;
+    left: 110px;
+    top: 723px;
+    overflow: visible;
+    width: 259px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(37,88,230,1);
+    text-decoration: true;
+}
+#Grupo_1 {
+    opacity: 0.18;
+    transform: matrix(1,0,0,1,739.1106,161.762) rotate(-90deg);
+    transform-origin: center;
+    position: absolute;
+    width: 295.854px;
+    height: 295.854px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_4_k {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 290.053px;
+}
+.Elipse_5_k {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 261.047px;
+}
+.Elipse_6_la {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 232.042px;
+}
+.Elipse_7_lb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 203.037px;
+}
+.Elipse_8_lc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 174.032px;
+}
+.Elipse_9_ld {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 145.026px;
+}
+.Elipse_10_le {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 116.021px;
+}
+.Elipse_11_lf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 87.016px;
+}
+.Elipse_12_lg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 58.01px;
+}
+.Elipse_13_lh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 29.005px;
+}
+.Elipse_14_li {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 0px;
+}
+.Elipse_15_lj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 290.053px;
+}
+.Elipse_16_lk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 261.047px;
+}
+.Elipse_17_ll {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 232.042px;
+}
+.Elipse_18_lm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 203.037px;
+}
+.Elipse_19_ln {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 174.032px;
+}
+.Elipse_20_lo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 145.026px;
+}
+.Elipse_21_lp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 116.021px;
+}
+.Elipse_22_lq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 87.016px;
+}
+.Elipse_23_lr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 58.01px;
+}
+.Elipse_24_ls {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 29.005px;
+}
+.Elipse_25_lt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 0px;
+}
+.Elipse_26_lu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 290.053px;
+}
+.Elipse_27_lv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 261.047px;
+}
+.Elipse_28_lw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 232.042px;
+}
+.Elipse_29_lx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 203.037px;
+}
+.Elipse_30_ly {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 174.032px;
+}
+.Elipse_31_lz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 145.026px;
+}
+.Elipse_32_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 116.021px;
+}
+.Elipse_33_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 87.016px;
+}
+.Elipse_34_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 58.01px;
+}
+.Elipse_35_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 29.005px;
+}
+.Elipse_36_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 0px;
+}
+.Elipse_37_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 290.053px;
+}
+.Elipse_38_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 261.047px;
+}
+.Elipse_39_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 232.042px;
+}
+.Elipse_40_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 203.037px;
+}
+.Elipse_41_l {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 174.032px;
+}
+.Elipse_42_ma {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 145.026px;
+}
+.Elipse_43_mb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 116.021px;
+}
+.Elipse_44_mc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 87.016px;
+}
+.Elipse_45_md {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 58.01px;
+}
+.Elipse_46_me {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 29.005px;
+}
+.Elipse_47_mf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 0px;
+}
+.Elipse_48_mg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 290.053px;
+}
+.Elipse_49_mh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 261.047px;
+}
+.Elipse_50_mi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 232.042px;
+}
+.Elipse_51_mj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 203.037px;
+}
+.Elipse_52_mk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 174.032px;
+}
+.Elipse_53_ml {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 145.026px;
+}
+.Elipse_54_mm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 116.021px;
+}
+.Elipse_55_mn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 87.016px;
+}
+.Elipse_56_mo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 58.01px;
+}
+.Elipse_57_mp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 29.005px;
+}
+.Elipse_58_mq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 0px;
+}
+.Elipse_59_mr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 290.053px;
+}
+.Elipse_60_ms {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 261.047px;
+}
+.Elipse_61_mt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 232.042px;
+}
+.Elipse_62_mu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 203.037px;
+}
+.Elipse_63_mv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 174.032px;
+}
+.Elipse_64_mw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 145.026px;
+}
+.Elipse_65_mx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 116.021px;
+}
+.Elipse_66_my {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 87.016px;
+}
+.Elipse_67_mz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 58.01px;
+}
+.Elipse_68_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 29.005px;
+}
+.Elipse_69_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 0px;
+}
+.Elipse_70_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 290.053px;
+}
+.Elipse_71_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 261.047px;
+}
+.Elipse_72_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 232.042px;
+}
+.Elipse_73_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 203.037px;
+}
+.Elipse_74_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 174.032px;
+}
+.Elipse_75_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 145.026px;
+}
+.Elipse_76_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 116.021px;
+}
+.Elipse_77_m {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 87.016px;
+}
+.Elipse_78_na {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 58.01px;
+}
+.Elipse_79_nb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 29.005px;
+}
+.Elipse_80_nc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 0px;
+}
+.Elipse_81_nd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 290.053px;
+}
+.Elipse_82_ne {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 261.047px;
+}
+.Elipse_83_nf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 232.042px;
+}
+.Elipse_84_ng {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 203.037px;
+}
+.Elipse_85_nh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 174.032px;
+}
+.Elipse_86_ni {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 145.026px;
+}
+.Elipse_87_nj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 116.021px;
+}
+.Elipse_88_nk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 87.016px;
+}
+.Elipse_89_nl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 58.01px;
+}
+.Elipse_90_nm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 29.005px;
+}
+.Elipse_91_nn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 0px;
+}
+.Elipse_92_no {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 290.053px;
+}
+.Elipse_93_np {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 261.047px;
+}
+.Elipse_94_nq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 232.042px;
+}
+.Elipse_95_nr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 203.037px;
+}
+.Elipse_96_ns {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 174.032px;
+}
+.Elipse_97_nt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 145.026px;
+}
+.Elipse_98_nu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 116.021px;
+}
+.Elipse_99_nv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 87.016px;
+}
+.Elipse_100_nw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 58.01px;
+}
+.Elipse_101_nx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 29.005px;
+}
+.Elipse_102_ny {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 0px;
+}
+.Elipse_103_nz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 290.053px;
+}
+.Elipse_104_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 261.047px;
+}
+.Elipse_105_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 232.042px;
+}
+.Elipse_106_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 203.037px;
+}
+.Elipse_107_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 174.032px;
+}
+.Elipse_108_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 145.026px;
+}
+.Elipse_109_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 116.021px;
+}
+.Elipse_110_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 87.016px;
+}
+.Elipse_111_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 58.01px;
+}
+.Elipse_112_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 29.005px;
+}
+.Elipse_113_n {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 0px;
+}
+.Elipse_114_oa {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 290.053px;
+}
+.Elipse_115_ob {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 261.047px;
+}
+.Elipse_116_oc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 232.042px;
+}
+.Elipse_117_od {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 203.037px;
+}
+.Elipse_118_oe {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 174.032px;
+}
+.Elipse_119_of {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 145.026px;
+}
+.Elipse_120_og {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 116.021px;
+}
+.Elipse_121_oh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 87.016px;
+}
+.Elipse_122_oi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 58.01px;
+}
+.Elipse_123_oj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 29.005px;
+}
+.Elipse_124_ok {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 0px;
+}
+#Grupo_9972 {
+    position: absolute;
+    width: 177px;
+    height: 47px;
+    left: 108px;
+    top: 74px;
+    overflow: visible;
+}
+#Grupo_9888 {
+    position: absolute;
+    width: 177px;
+    height: 47px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#t_seguro {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 178px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    color: rgba(37,88,230,1);
+}
+#Grupo_9894 {
+    position: absolute;
+    width: 22.436px;
+    height: 8.92px;
+    left: 112.183px;
+    top: 2.479px;
+    overflow: visible;
+}
+.Icon_awesome_star {
+    overflow: visible;
+    position: absolute;
+    width: 9.32px;
+    height: 8.92px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_star_oq {
+    overflow: visible;
+    position: absolute;
+    width: 9.32px;
+    height: 8.92px;
+    left: 13.116px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Agora_seguran_a_na_hora_de_vis {
+    position: absolute;
+    left: 110px;
+    top: 417px;
+    overflow: visible;
+    width: 617px;
+    height: 119px;
+    line-height: 29px;
+    margin-top: -4px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(69,79,99,1);
+}
+#nathan_dumlao_2z3MOB3kfJU_unsp {
+    position: absolute;
+    width: 168px;
+    height: 253px;
+    left: 412px;
+    top: 2801px;
+    overflow: visible;
+}
+#chad_montano_MqT0asuoIcU_unspl {
+    position: absolute;
+    width: 276.086px;
+    height: 333.601px;
+    left: 318.305px;
+    top: 2426.702px;
+    overflow: visible;
+}
+#Nesse_novo_mundo__p_s_covid__q {
+    position: absolute;
+    left: 110px;
+    top: 1148px;
+    overflow: visible;
+    width: 592px;
+    height: 488px;
+    line-height: 29px;
+    margin-top: -4px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    color: rgba(69,79,99,1);
+}
+.Caminho_11 {
+    overflow: visible;
+    position: absolute;
+    width: 20.132px;
+    height: 12.942px;
+    left: 541.288px;
+    top: 572px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9890 {
+    opacity: 0.29;
+    position: absolute;
+    width: 1325.283px;
+    height: 618.085px;
+    left: 7.674px;
+    top: 1647.39px;
+    overflow: visible;
+}
+#Grupo_59 {
+    position: absolute;
+    width: 295.854px;
+    height: 295.854px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_57 {
+    opacity: 0.18;
+    transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(-90deg);
+    transform-origin: center;
+    position: absolute;
+    width: 295.854px;
+    height: 295.854px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_4_oz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 290.052px;
+}
+.Elipse_5_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 261.047px;
+}
+.Elipse_6_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 232.042px;
+}
+.Elipse_7_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 203.037px;
+}
+.Elipse_8_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 174.032px;
+}
+.Elipse_9_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 145.026px;
+}
+.Elipse_10_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 116.021px;
+}
+.Elipse_11_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 87.016px;
+}
+.Elipse_12_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 58.01px;
+}
+.Elipse_13_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 29.005px;
+}
+.Elipse_14_o {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 0px;
+}
+.Elipse_15_pa {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 290.052px;
+}
+.Elipse_16_pb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 261.047px;
+}
+.Elipse_17_pc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 232.042px;
+}
+.Elipse_18_pd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 203.037px;
+}
+.Elipse_19_pe {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 174.032px;
+}
+.Elipse_20_pf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 145.026px;
+}
+.Elipse_21_pg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 116.021px;
+}
+.Elipse_22_ph {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 87.016px;
+}
+.Elipse_23_pi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 58.01px;
+}
+.Elipse_24_pj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 29.005px;
+}
+.Elipse_25_pk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 0px;
+}
+.Elipse_26_pl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 290.052px;
+}
+.Elipse_27_pm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 261.047px;
+}
+.Elipse_28_pn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 232.042px;
+}
+.Elipse_29_po {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 203.037px;
+}
+.Elipse_30_pp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 174.032px;
+}
+.Elipse_31_pq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 145.026px;
+}
+.Elipse_32_pr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 116.021px;
+}
+.Elipse_33_ps {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 87.016px;
+}
+.Elipse_34_pt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 58.01px;
+}
+.Elipse_35_pu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 29.005px;
+}
+.Elipse_36_pv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 0px;
+}
+.Elipse_37_pw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 290.052px;
+}
+.Elipse_38_px {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 261.047px;
+}
+.Elipse_39_py {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 232.042px;
+}
+.Elipse_40_pz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 203.037px;
+}
+.Elipse_41_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 174.032px;
+}
+.Elipse_42_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 145.026px;
+}
+.Elipse_43_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 116.021px;
+}
+.Elipse_44_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 87.016px;
+}
+.Elipse_45_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 58.01px;
+}
+.Elipse_46_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 29.005px;
+}
+.Elipse_47_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 0px;
+}
+.Elipse_48_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 290.052px;
+}
+.Elipse_49_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 261.047px;
+}
+.Elipse_50_p {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 232.042px;
+}
+.Elipse_51_qa {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 203.037px;
+}
+.Elipse_52_qb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 174.032px;
+}
+.Elipse_53_qc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 145.026px;
+}
+.Elipse_54_qd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 116.021px;
+}
+.Elipse_55_qe {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 87.016px;
+}
+.Elipse_56_qf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 58.01px;
+}
+.Elipse_57_qg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 29.005px;
+}
+.Elipse_58_qh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 0px;
+}
+.Elipse_59_qi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 290.052px;
+}
+.Elipse_60_qj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 261.047px;
+}
+.Elipse_61_qk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 232.042px;
+}
+.Elipse_62_ql {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 203.037px;
+}
+.Elipse_63_qm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 174.032px;
+}
+.Elipse_64_qn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 145.026px;
+}
+.Elipse_65_qo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 116.021px;
+}
+.Elipse_66_qp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 87.016px;
+}
+.Elipse_67_qq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 58.01px;
+}
+.Elipse_68_qr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 29.005px;
+}
+.Elipse_69_qs {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 0px;
+}
+.Elipse_70_qt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 290.052px;
+}
+.Elipse_71_qu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 261.047px;
+}
+.Elipse_72_qv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 232.042px;
+}
+.Elipse_73_qw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 203.037px;
+}
+.Elipse_74_qx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 174.032px;
+}
+.Elipse_75_qy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 145.026px;
+}
+.Elipse_76_qz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 116.021px;
+}
+.Elipse_77_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 87.016px;
+}
+.Elipse_78_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 58.01px;
+}
+.Elipse_79_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 29.005px;
+}
+.Elipse_80_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.032px;
+    top: 0px;
+}
+.Elipse_81_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 290.052px;
+}
+.Elipse_82_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 261.047px;
+}
+.Elipse_83_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 232.042px;
+}
+.Elipse_84_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 203.037px;
+}
+.Elipse_85_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 174.032px;
+}
+.Elipse_86_q {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 145.026px;
+}
+.Elipse_87_ra {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 116.021px;
+}
+.Elipse_88_rb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 87.016px;
+}
+.Elipse_89_rc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 58.01px;
+}
+.Elipse_90_rd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 29.005px;
+}
+.Elipse_91_re {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 0px;
+}
+.Elipse_92_rf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 290.052px;
+}
+.Elipse_93_rg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 261.047px;
+}
+.Elipse_94_rh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 232.042px;
+}
+.Elipse_95_ri {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 203.037px;
+}
+.Elipse_96_rj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 174.032px;
+}
+.Elipse_97_rk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 145.026px;
+}
+.Elipse_98_rl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 116.021px;
+}
+.Elipse_99_rm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 87.016px;
+}
+.Elipse_100_rn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 58.01px;
+}
+.Elipse_101_ro {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 29.005px;
+}
+.Elipse_102_rp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 0px;
+}
+.Elipse_103_rq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 290.052px;
+}
+.Elipse_104_rr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 261.047px;
+}
+.Elipse_105_rs {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 232.042px;
+}
+.Elipse_106_rt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 203.037px;
+}
+.Elipse_107_ru {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 174.032px;
+}
+.Elipse_108_rv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 145.026px;
+}
+.Elipse_109_rw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 116.021px;
+}
+.Elipse_110_rx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 87.016px;
+}
+.Elipse_111_ry {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 58.01px;
+}
+.Elipse_112_rz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 29.005px;
+}
+.Elipse_113_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 0px;
+}
+.Elipse_114_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 290.052px;
+}
+.Elipse_115_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 261.047px;
+}
+.Elipse_116_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 232.042px;
+}
+.Elipse_117_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 203.037px;
+}
+.Elipse_118_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 174.032px;
+}
+.Elipse_119_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 145.026px;
+}
+.Elipse_120_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 116.021px;
+}
+.Elipse_121_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 87.016px;
+}
+.Elipse_122_r {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 58.01px;
+}
+.Elipse_123_sa {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 29.005px;
+}
+.Elipse_124_sb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 0px;
+}
+#Grupo_61 {
+    position: absolute;
+    width: 680.107px;
+    height: 618.085px;
+    left: 645.175px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_57_sd {
+    opacity: 0.18;
+    transform: translate(0px, 0px) matrix(1,0,0,1,384.2536,0) rotate(-90deg);
+    transform-origin: center;
+    position: absolute;
+    width: 295.854px;
+    height: 295.854px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_4_se {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 290.052px;
+}
+.Elipse_5_sf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 261.047px;
+}
+.Elipse_6_sg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 232.042px;
+}
+.Elipse_7_sh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 203.037px;
+}
+.Elipse_8_si {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 174.032px;
+}
+.Elipse_9_sj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 145.026px;
+}
+.Elipse_10_sk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 116.021px;
+}
+.Elipse_11_sl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 87.016px;
+}
+.Elipse_12_sm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 58.01px;
+}
+.Elipse_13_sn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 29.005px;
+}
+.Elipse_14_so {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 0px;
+}
+.Elipse_15_sp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 290.052px;
+}
+.Elipse_16_sq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 261.047px;
+}
+.Elipse_17_sr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 232.042px;
+}
+.Elipse_18_ss {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 203.037px;
+}
+.Elipse_19_st {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 174.032px;
+}
+.Elipse_20_su {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 145.026px;
+}
+.Elipse_21_sv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 116.021px;
+}
+.Elipse_22_sw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 87.016px;
+}
+.Elipse_23_sx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 58.01px;
+}
+.Elipse_24_sy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 29.005px;
+}
+.Elipse_25_sz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 0px;
+}
+.Elipse_26_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 290.052px;
+}
+.Elipse_27_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 261.047px;
+}
+.Elipse_28_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 232.042px;
+}
+.Elipse_29_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 203.037px;
+}
+.Elipse_30_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 174.032px;
+}
+.Elipse_31_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 145.026px;
+}
+.Elipse_32_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 116.021px;
+}
+.Elipse_33_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 87.016px;
+}
+.Elipse_34_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 58.01px;
+}
+.Elipse_35_s {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 29.005px;
+}
+.Elipse_36_ta {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 0px;
+}
+.Elipse_37_tb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 290.052px;
+}
+.Elipse_38_tc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 261.047px;
+}
+.Elipse_39_td {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 232.042px;
+}
+.Elipse_40_te {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 203.037px;
+}
+.Elipse_41_tf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 174.032px;
+}
+.Elipse_42_tg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 145.026px;
+}
+.Elipse_43_th {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 116.021px;
+}
+.Elipse_44_ti {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 87.016px;
+}
+.Elipse_45_tj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 58.01px;
+}
+.Elipse_46_tk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 29.005px;
+}
+.Elipse_47_tl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 0px;
+}
+.Elipse_48_tm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 290.052px;
+}
+.Elipse_49_tn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 261.047px;
+}
+.Elipse_50_to {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 232.042px;
+}
+.Elipse_51_tp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 203.037px;
+}
+.Elipse_52_tq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 174.032px;
+}
+.Elipse_53_tr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 145.026px;
+}
+.Elipse_54_ts {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 116.021px;
+}
+.Elipse_55_tt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 87.016px;
+}
+.Elipse_56_tu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 58.01px;
+}
+.Elipse_57_tv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 29.005px;
+}
+.Elipse_58_tw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 0px;
+}
+.Elipse_59_tx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 290.052px;
+}
+.Elipse_60_ty {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 261.047px;
+}
+.Elipse_61_tz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 232.042px;
+}
+.Elipse_62_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 203.037px;
+}
+.Elipse_63_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 174.032px;
+}
+.Elipse_64_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 145.026px;
+}
+.Elipse_65_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 116.021px;
+}
+.Elipse_66_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 87.016px;
+}
+.Elipse_67_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 58.01px;
+}
+.Elipse_68_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 29.005px;
+}
+.Elipse_69_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 0px;
+}
+.Elipse_70_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 290.052px;
+}
+.Elipse_71_t {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 261.047px;
+}
+.Elipse_72_ua {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 232.042px;
+}
+.Elipse_73_ub {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 203.037px;
+}
+.Elipse_74_uc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 174.032px;
+}
+.Elipse_75_ud {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 145.026px;
+}
+.Elipse_76_ue {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 116.021px;
+}
+.Elipse_77_uf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 87.016px;
+}
+.Elipse_78_ug {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 58.01px;
+}
+.Elipse_79_uh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 29.005px;
+}
+.Elipse_80_ui {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 0px;
+}
+.Elipse_81_uj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 290.052px;
+}
+.Elipse_82_uk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 261.047px;
+}
+.Elipse_83_ul {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 232.042px;
+}
+.Elipse_84_um {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 203.037px;
+}
+.Elipse_85_un {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 174.032px;
+}
+.Elipse_86_uo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 145.026px;
+}
+.Elipse_87_up {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 116.021px;
+}
+.Elipse_88_uq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 87.016px;
+}
+.Elipse_89_ur {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 58.01px;
+}
+.Elipse_90_us {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 29.005px;
+}
+.Elipse_91_ut {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 0px;
+}
+.Elipse_92_uu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 290.052px;
+}
+.Elipse_93_uv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 261.047px;
+}
+.Elipse_94_uw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 232.042px;
+}
+.Elipse_95_ux {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 203.037px;
+}
+.Elipse_96_uy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 174.032px;
+}
+.Elipse_97_uz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 145.026px;
+}
+.Elipse_98_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 116.021px;
+}
+.Elipse_99_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 87.016px;
+}
+.Elipse_100_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 58.01px;
+}
+.Elipse_101_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 29.005px;
+}
+.Elipse_102_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 0px;
+}
+.Elipse_103_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 290.052px;
+}
+.Elipse_104_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 261.047px;
+}
+.Elipse_105_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 232.042px;
+}
+.Elipse_106_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 203.037px;
+}
+.Elipse_107_u {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 174.032px;
+}
+.Elipse_108_va {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 145.026px;
+}
+.Elipse_109_vb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 116.021px;
+}
+.Elipse_110_vc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 87.016px;
+}
+.Elipse_111_vd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 58.01px;
+}
+.Elipse_112_ve {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 29.005px;
+}
+.Elipse_113_vf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 0px;
+}
+.Elipse_114_vg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 290.052px;
+}
+.Elipse_115_vh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 261.047px;
+}
+.Elipse_116_vi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 232.042px;
+}
+.Elipse_117_vj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 203.037px;
+}
+.Elipse_118_vk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 174.032px;
+}
+.Elipse_119_vl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 145.026px;
+}
+.Elipse_120_vm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 116.021px;
+}
+.Elipse_121_vn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 87.016px;
+}
+.Elipse_122_vo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 58.01px;
+}
+.Elipse_123_vp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 29.005px;
+}
+.Elipse_124_vq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.052px;
+    top: 0px;
+}
+#Grupo_58 {
+    opacity: 0.18;
+    transform: translate(0px, 0px) matrix(1,0,0,1,0,322.2314) rotate(-90deg);
+    transform-origin: center;
+    position: absolute;
+    width: 295.854px;
+    height: 295.854px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Elipse_4_vs {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 290.052px;
+}
+.Elipse_5_vt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 261.047px;
+}
+.Elipse_6_vu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 232.042px;
+}
+.Elipse_7_vv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 203.037px;
+}
+.Elipse_8_vw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 174.031px;
+}
+.Elipse_9_vx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 145.026px;
+}
+.Elipse_10_vy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 116.021px;
+}
+.Elipse_11_vz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 87.015px;
+}
+.Elipse_12_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 58.01px;
+}
+.Elipse_13_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 29.005px;
+}
+.Elipse_14_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 0px;
+    top: 0px;
+}
+.Elipse_15_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 290.052px;
+}
+.Elipse_16_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 261.047px;
+}
+.Elipse_17_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 232.042px;
+}
+.Elipse_18_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 203.037px;
+}
+.Elipse_19_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 174.031px;
+}
+.Elipse_20_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 145.026px;
+}
+.Elipse_21_v {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 116.021px;
+}
+.Elipse_22_wa {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 87.015px;
+}
+.Elipse_23_wb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 58.01px;
+}
+.Elipse_24_wc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 29.005px;
+}
+.Elipse_25_wd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 29.005px;
+    top: 0px;
+}
+.Elipse_26_we {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 290.052px;
+}
+.Elipse_27_wf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 261.047px;
+}
+.Elipse_28_wg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 232.042px;
+}
+.Elipse_29_wh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 203.037px;
+}
+.Elipse_30_wi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 174.031px;
+}
+.Elipse_31_wj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 145.026px;
+}
+.Elipse_32_wk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 116.021px;
+}
+.Elipse_33_wl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 87.015px;
+}
+.Elipse_34_wm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 58.01px;
+}
+.Elipse_35_wn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 29.005px;
+}
+.Elipse_36_wo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 58.01px;
+    top: 0px;
+}
+.Elipse_37_wp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 290.052px;
+}
+.Elipse_38_wq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 261.047px;
+}
+.Elipse_39_wr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 232.042px;
+}
+.Elipse_40_ws {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 203.037px;
+}
+.Elipse_41_wt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 174.031px;
+}
+.Elipse_42_wu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 145.026px;
+}
+.Elipse_43_wv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 116.021px;
+}
+.Elipse_44_ww {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 87.015px;
+}
+.Elipse_45_wx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 58.01px;
+}
+.Elipse_46_wy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 29.005px;
+}
+.Elipse_47_wz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 87.016px;
+    top: 0px;
+}
+.Elipse_48_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 290.052px;
+}
+.Elipse_49_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 261.047px;
+}
+.Elipse_50_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 232.042px;
+}
+.Elipse_51_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 203.037px;
+}
+.Elipse_52_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 174.031px;
+}
+.Elipse_53_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 145.026px;
+}
+.Elipse_54_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 116.021px;
+}
+.Elipse_55_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 87.015px;
+}
+.Elipse_56_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 58.01px;
+}
+.Elipse_57_w {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 29.005px;
+}
+.Elipse_58_xa {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 116.021px;
+    top: 0px;
+}
+.Elipse_59_xb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 290.052px;
+}
+.Elipse_60_xc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 261.047px;
+}
+.Elipse_61_xd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 232.042px;
+}
+.Elipse_62_xe {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 203.037px;
+}
+.Elipse_63_xf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 174.031px;
+}
+.Elipse_64_xg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 145.026px;
+}
+.Elipse_65_xh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 116.021px;
+}
+.Elipse_66_xi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 87.015px;
+}
+.Elipse_67_xj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 58.01px;
+}
+.Elipse_68_xk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 29.005px;
+}
+.Elipse_69_xl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 145.026px;
+    top: 0px;
+}
+.Elipse_70_xm {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 290.052px;
+}
+.Elipse_71_xn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 261.047px;
+}
+.Elipse_72_xo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 232.042px;
+}
+.Elipse_73_xp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 203.037px;
+}
+.Elipse_74_xq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 174.031px;
+}
+.Elipse_75_xr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 145.026px;
+}
+.Elipse_76_xs {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 116.021px;
+}
+.Elipse_77_xt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 87.015px;
+}
+.Elipse_78_xu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 58.01px;
+}
+.Elipse_79_xv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 29.005px;
+}
+.Elipse_80_xw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 174.031px;
+    top: 0px;
+}
+.Elipse_81_xx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 290.052px;
+}
+.Elipse_82_xy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 261.047px;
+}
+.Elipse_83_xz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 232.042px;
+}
+.Elipse_84_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 203.037px;
+}
+.Elipse_85_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 174.031px;
+}
+.Elipse_86_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 145.026px;
+}
+.Elipse_87_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 116.021px;
+}
+.Elipse_88_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 87.015px;
+}
+.Elipse_89_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 58.01px;
+}
+.Elipse_90_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 29.005px;
+}
+.Elipse_91_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 203.037px;
+    top: 0px;
+}
+.Elipse_92_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 290.052px;
+}
+.Elipse_93_x {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 261.047px;
+}
+.Elipse_94_ya {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 232.042px;
+}
+.Elipse_95_yb {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 203.037px;
+}
+.Elipse_96_yc {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 174.031px;
+}
+.Elipse_97_yd {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 145.026px;
+}
+.Elipse_98_ye {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 116.021px;
+}
+.Elipse_99_yf {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 87.015px;
+}
+.Elipse_100_yg {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 58.01px;
+}
+.Elipse_101_yh {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 29.005px;
+}
+.Elipse_102_yi {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 232.042px;
+    top: 0px;
+}
+.Elipse_103_yj {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 290.052px;
+}
+.Elipse_104_yk {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 261.047px;
+}
+.Elipse_105_yl {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 232.042px;
+}
+.Elipse_106_ym {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 203.037px;
+}
+.Elipse_107_yn {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 174.031px;
+}
+.Elipse_108_yo {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 145.026px;
+}
+.Elipse_109_yp {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 116.021px;
+}
+.Elipse_110_yq {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 87.015px;
+}
+.Elipse_111_yr {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 58.01px;
+}
+.Elipse_112_ys {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 29.005px;
+}
+.Elipse_113_yt {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 261.047px;
+    top: 0px;
+}
+.Elipse_114_yu {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 290.052px;
+}
+.Elipse_115_yv {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 261.047px;
+}
+.Elipse_116_yw {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 232.042px;
+}
+.Elipse_117_yx {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 203.037px;
+}
+.Elipse_118_yy {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 174.031px;
+}
+.Elipse_119_yz {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 145.026px;
+}
+.Elipse_120_y {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 116.021px;
+}
+.Elipse_121_y {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 87.015px;
+}
+.Elipse_122_y {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 58.01px;
+}
+.Elipse_123_y {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 29.005px;
+}
+.Elipse_124_y {
+    position: absolute;
+    overflow: visible;
+    width: 5.801px;
+    height: 5.801px;
+    left: 290.053px;
+    top: 0px;
+}
+#Como_Funciona {
+    position: absolute;
+    left: 527px;
+    top: 1615px;
+    overflow: visible;
+    width: 352px;
+    white-space: nowrap;
+    line-height: 55px;
+    margin-top: -5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(37,88,230,1);
+    letter-spacing: -0.2px;
+}
+#Analise_e_escolha_o_restaurant {
+    position: absolute;
+    left: 434px;
+    top: 1814px;
+    overflow: visible;
+    width: 268px;
+    height: 129px;
+    line-height: 29px;
+    margin-top: -4px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(69,79,99,1);
+}
+#Voc__ter__acesso_a_v_rios_rest {
+    position: absolute;
+    left: 159px;
+    top: 2084px;
+    overflow: visible;
+    width: 236px;
+    height: 124px;
+    line-height: 29px;
+    margin-top: -4px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(69,79,99,1);
+}
+.Ret_ngulo_2314 {
+    position: absolute;
+    overflow: visible;
+    width: 513px;
+    height: 483px;
+    left: 739px;
+    top: 1717px;
+}
+.Ret_ngulo_2315 {
+    position: absolute;
+    overflow: visible;
+    width: 269px;
+    height: 255px;
+    left: 110px;
+    top: 1708px;
+}
+.Ret_ngulo_2316 {
+    position: absolute;
+    overflow: visible;
+    width: 258px;
+    height: 241px;
+    left: 434px;
+    top: 1959px;
+}
+#Voc__pode_filtrar_por__todo_ti {
+    position: absolute;
+    left: 434px;
+    top: 1748px;
+    overflow: visible;
+    width: 254px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(46,38,111,1);
+    letter-spacing: -0.2px;
+}
+#Primeiro_voc___escolhe_a_cidad {
+    position: absolute;
+    left: 159px;
+    top: 2019px;
+    overflow: visible;
+    width: 175px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(46,38,111,1);
+    letter-spacing: -0.2px;
+}
+#Depois_de_escolhido___s__garan {
+    position: absolute;
+    left: 876.226px;
+    top: 1975.315px;
+    overflow: visible;
+    width: 258px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(46,38,111,1);
+    letter-spacing: -0.2px;
+}
+#Fique_atento_a_promo__es_para_ {
+    position: absolute;
+    left: 875.949px;
+    top: 2043.328px;
+    overflow: visible;
+    width: 307.931px;
+    height: 213.28px;
+    line-height: 29px;
+    margin-top: -4px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(69,79,99,1);
+}
+#Os_restaurantes_da__sua_cidade {
+    position: absolute;
+    left: 670px;
+    top: 2511px;
+    overflow: visible;
+    width: 491px;
+    white-space: nowrap;
+    line-height: 55px;
+    margin-top: -5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(46,38,111,1);
+    letter-spacing: -0.2px;
+}
+#Ainda_n_o_tem_cadastro__N_o_pe {
+    position: absolute;
+    left: 295px;
+    top: 3274px;
+    overflow: visible;
+    width: 776px;
+    height: 70px;
+    line-height: 29px;
+    margin-top: -4px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(255,255,255,1);
+}
+#Sou_restaurante {
+    position: absolute;
+    left: 552px;
+    top: 3201px;
+    overflow: visible;
+    width: 357px;
+    white-space: nowrap;
+    line-height: 51px;
+    margin-top: -3px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.2px;
+}
+#Grupo_9892 {
+    position: absolute;
+    width: 203px;
+    height: 45px;
+    left: 571px;
+    top: 3366px;
+    overflow: visible;
+}
+.Ret_ngulo_2_zj {
+    position: absolute;
+    overflow: visible;
+    width: 203px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+}
+#_Quero_me_cadastrar {
+    position: absolute;
+    left: 17px;
+    top: 11px;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    line-height: 17px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(37,88,230,1);
+    letter-spacing: -0.2px;
+}
+#Grupo_9895 {
+    position: absolute;
+    width: 397.037px;
+    height: 59.503px;
+    left: 871.379px;
+    top: 3544px;
+    overflow: visible;
+}
+#g10 {
+    position: absolute;
+    width: 108.894px;
+    height: 58.859px;
+    left: 0px;
+    top: 0.312px;
+    overflow: visible;
+}
+.path68 {
+    overflow: visible;
+    position: absolute;
+    width: 108.894px;
+    height: 58.859px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#logo_mctic_horizontal_cor_grad {
+    position: absolute;
+    width: 266.981px;
+    height: 59.503px;
+    left: 130.056px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2_zp {
+    position: absolute;
+    overflow: visible;
+    width: 208px;
+    height: 36px;
+    left: 1044px;
+    top: 79px;
+}
+#mae_mu_I7A_pHLcQK8_unsplash {
+    position: absolute;
+    width: 305.272px;
+    height: 381.554px;
+    left: 58.127px;
+    top: 2593.52px;
+    overflow: visible;
+}
+#elevate_snnhGYNqm44_unsplash {
+    position: absolute;
+    width: 431px;
+    height: 548px;
+    left: 821px;
+    top: 204px;
+    overflow: visible;
+}
+#ID2944348 {
+    position: absolute;
+    width: 56.666px;
+    height: 120.161px;
+    left: 535px;
+    top: 2019px;
+    overflow: visible;
+}
+.Caminho_18910 {
+    overflow: visible;
+    position: absolute;
+    width: 27.958px;
+    height: 120.161px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_18913 {
+    overflow: visible;
+    position: absolute;
+    width: 19.306px;
+    height: 120.161px;
+    left: 37.359px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#ID3003388 {
+    position: absolute;
+    width: 139.331px;
+    height: 108.541px;
+    left: 175px;
+    top: 1781.315px;
+    overflow: visible;
+}
+#Grupo_9974 {
+    position: absolute;
+    width: 139.331px;
+    height: 108.541px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18914 {
+    overflow: visible;
+    position: absolute;
+    width: 15.627px;
+    height: 15.627px;
+    left: 114.907px;
+    top: 46.457px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_18915 {
+    overflow: visible;
+    position: absolute;
+    width: 139.331px;
+    height: 108.541px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#ID701358 {
+    position: absolute;
+    width: 129px;
+    height: 129px;
+    left: 930px;
+    top: 1809px;
+    overflow: visible;
+}
+#Grupo_9976 {
+    position: absolute;
+    width: 42.499px;
+    height: 40.893px;
+    left: 4.266px;
+    top: 68.8px;
+    overflow: visible;
+}
+#Grupo_9975 {
+    position: absolute;
+    width: 42.499px;
+    height: 40.893px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18916 {
+    overflow: visible;
+    position: absolute;
+    width: 42.499px;
+    height: 40.893px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9978 {
+    position: absolute;
+    width: 10.532px;
+    height: 20.709px;
+    left: 8.161px;
+    top: 106.83px;
+    overflow: visible;
+}
+#Grupo_9977 {
+    position: absolute;
+    width: 10.532px;
+    height: 20.709px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2339 {
+    width: 20.397px;
+    height: 4.3px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(0px, 0px) matrix(1,0,0,1,-4.9319,8.2045) rotate(-71.554deg);
+    transform-origin: center;
+}
+#Grupo_9980 {
+    position: absolute;
+    width: 10.529px;
+    height: 20.71px;
+    left: 33.971px;
+    top: 106.825px;
+    overflow: visible;
+}
+#Grupo_9979 {
+    position: absolute;
+    width: 10.529px;
+    height: 20.71px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2340 {
+    width: 4.3px;
+    height: 20.397px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(0px, 0px) matrix(1,0,0,1,3.1145,0.1566) rotate(-18.433deg);
+    transform-origin: center;
+}
+#Grupo_9982 {
+    position: absolute;
+    width: 64.5px;
+    height: 12.9px;
+    left: 32.25px;
+    top: 77.4px;
+    overflow: visible;
+}
+#Grupo_9981 {
+    position: absolute;
+    width: 64.5px;
+    height: 12.9px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18917 {
+    overflow: visible;
+    position: absolute;
+    width: 64.5px;
+    height: 12.899px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9984 {
+    position: absolute;
+    width: 12.9px;
+    height: 43px;
+    left: 58.05px;
+    top: 86px;
+    overflow: visible;
+}
+#Grupo_9983 {
+    position: absolute;
+    width: 12.9px;
+    height: 43px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18918 {
+    overflow: visible;
+    position: absolute;
+    width: 12.9px;
+    height: 43px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9986 {
+    position: absolute;
+    width: 124.7px;
+    height: 21.5px;
+    left: 2.15px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_9985 {
+    position: absolute;
+    width: 124.7px;
+    height: 21.5px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18919 {
+    overflow: visible;
+    position: absolute;
+    width: 124.7px;
+    height: 21.5px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9988 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 53.75px;
+    top: 17.2px;
+    overflow: visible;
+}
+#Grupo_9987 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18920 {
+    overflow: visible;
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9990 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 36.55px;
+    top: 17.2px;
+    overflow: visible;
+}
+#Grupo_9989 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18921 {
+    overflow: visible;
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9992 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 19.35px;
+    top: 17.2px;
+    overflow: visible;
+}
+#Grupo_9991 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18922 {
+    overflow: visible;
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9994 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 2.15px;
+    top: 17.2px;
+    overflow: visible;
+}
+#Grupo_9993 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18923 {
+    overflow: visible;
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9996 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 70.95px;
+    top: 17.2px;
+    overflow: visible;
+}
+#Grupo_9995 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18924 {
+    overflow: visible;
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9998 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 88.15px;
+    top: 17.2px;
+    overflow: visible;
+}
+#Grupo_9997 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18925 {
+    overflow: visible;
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_10000 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 105.35px;
+    top: 17.2px;
+    overflow: visible;
+}
+#Grupo_9999 {
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18926 {
+    overflow: visible;
+    position: absolute;
+    width: 21.5px;
+    height: 19.35px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_10002 {
+    position: absolute;
+    width: 4.3px;
+    height: 17.2px;
+    left: 53.75px;
+    top: 2.15px;
+    overflow: visible;
+}
+#Grupo_10001 {
+    position: absolute;
+    width: 4.3px;
+    height: 17.2px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2341 {
+    position: absolute;
+    overflow: visible;
+    width: 4.3px;
+    height: 17.2px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_10004 {
+    position: absolute;
+    width: 4.3px;
+    height: 17.2px;
+    left: 70.95px;
+    top: 2.15px;
+    overflow: visible;
+}
+#Grupo_10003 {
+    position: absolute;
+    width: 4.3px;
+    height: 17.2px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2342 {
+    position: absolute;
+    overflow: visible;
+    width: 4.3px;
+    height: 17.2px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_10006 {
+    position: absolute;
+    width: 4.3px;
+    height: 17.2px;
+    left: 36.55px;
+    top: 2.15px;
+    overflow: visible;
+}
+#Grupo_10005 {
+    position: absolute;
+    width: 4.3px;
+    height: 17.2px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2343 {
+    position: absolute;
+    overflow: visible;
+    width: 4.3px;
+    height: 17.2px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_10008 {
+    position: absolute;
+    width: 4.3px;
+    height: 17.2px;
+    left: 88.15px;
+    top: 2.15px;
+    overflow: visible;
+}
+#Grupo_10007 {
+    position: absolute;
+    width: 4.3px;
+    height: 17.2px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2344 {
+    position: absolute;
+    overflow: visible;
+    width: 4.3px;
+    height: 17.2px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_10010 {
+    position: absolute;
+    width: 6.416px;
+    height: 17.729px;
+    left: 19.366px;
+    top: 1.887px;
+    overflow: visible;
+}
+#Grupo_10009 {
+    position: absolute;
+    width: 6.416px;
+    height: 17.729px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2345 {
+    width: 17.329px;
+    height: 4.3px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(0px, 0px) matrix(1,0,0,1,-5.4569,6.7145) rotate(-82.877deg);
+    transform-origin: center;
+}
+#Grupo_10012 {
+    position: absolute;
+    width: 6.416px;
+    height: 17.729px;
+    left: 103.221px;
+    top: 1.887px;
+    overflow: visible;
+}
+#Grupo_10011 {
+    position: absolute;
+    width: 6.416px;
+    height: 17.729px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2346 {
+    width: 4.3px;
+    height: 17.329px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(0px, 0px) matrix(1,0,0,1,1.0578,0.1997) rotate(-7.123deg);
+    transform-origin: center;
+}
+#Grupo_10014 {
+    position: absolute;
+    width: 42.497px;
+    height: 40.893px;
+    left: 82.238px;
+    top: 68.8px;
+    overflow: visible;
+}
+#Grupo_10013 {
+    position: absolute;
+    width: 42.497px;
+    height: 40.893px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_18927 {
+    overflow: visible;
+    position: absolute;
+    width: 42.497px;
+    height: 40.893px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_10016 {
+    position: absolute;
+    width: 10.527px;
+    height: 20.71px;
+    left: 110.298px;
+    top: 106.827px;
+    overflow: visible;
+}
+#Grupo_10015 {
+    position: absolute;
+    width: 10.527px;
+    height: 20.71px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2347 {
+    width: 4.298px;
+    height: 20.397px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(0px, 0px) matrix(1,0,0,1,3.1145,0.1562) rotate(-18.433deg);
+    transform-origin: center;
+}
+#Grupo_10018 {
+    position: absolute;
+    width: 10.533px;
+    height: 20.709px;
+    left: 84.504px;
+    top: 106.809px;
+    overflow: visible;
+}
+#Grupo_10017 {
+    position: absolute;
+    width: 10.533px;
+    height: 20.709px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2348 {
+    width: 20.397px;
+    height: 4.298px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(0px, 0px) matrix(1,0,0,1,-4.9323,8.2056) rotate(-71.549deg);
+    transform-origin: center;
+}
+#Grupo_10020 {
+    position: absolute;
+    width: 129px;
+    height: 4.3px;
+    left: 0px;
+    top: 124.7px;
+    overflow: visible;
+}
+#Grupo_10019 {
+    position: absolute;
+    width: 129px;
+    height: 4.3px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2349 {
+    position: absolute;
+    overflow: visible;
+    width: 129px;
+    height: 4.3px;
+    left: 0px;
+    top: 0px;
+}
+#Grupo_10021 {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 122px;
+    top: 1904px;
+    overflow: visible;
+}
+.Elipse_141 {
+    position: absolute;
+    overflow: visible;
+    width: 59px;
+    height: 59px;
+    left: 0px;
+    top: 0px;
+}
+#ID1 {
+    position: absolute;
+    left: 23px;
+    top: 16px;
+    overflow: visible;
+    width: 15px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.2px;
+}
+#Grupo_10022 {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 506px;
+    top: 1943px;
+    overflow: visible;
+}
+.Elipse_141_ {
+    position: absolute;
+    overflow: visible;
+    width: 59px;
+    height: 59px;
+    left: 0px;
+    top: 0px;
+}
+#ID2 {
+    position: absolute;
+    left: 23px;
+    top: 16px;
+    overflow: visible;
+    width: 15px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.2px;
+}
+#Grupo_10023 {
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 780px;
+    top: 2093px;
+    overflow: visible;
+}
+.Elipse_141_a {
+    position: absolute;
+    overflow: visible;
+    width: 59px;
+    height: 59px;
+    left: 0px;
+    top: 0px;
+}
+#ID3 {
+    position: absolute;
+    left: 23px;
+    top: 16px;
+    overflow: visible;
+    width: 15px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -0.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(255,255,255,1);
+    letter-spacing: -0.2px;
+}
+#Grupo_10026 {
+    position: absolute;
+    width: 177px;
+    height: 47px;
+    left: 104px;
+    top: 3551px;
+    overflow: visible;
+}
+#Grupo_9888_ {
+    position: absolute;
+    width: 177px;
+    height: 47px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#t_seguro_ {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 178px;
+    white-space: nowrap;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 38px;
+    color: rgba(37,88,230,1);
+}
+#Grupo_9894_ {
+    position: absolute;
+    width: 27.982px;
+    height: 11.126px;
+    left: 119.183px;
+    top: 2.479px;
+    overflow: visible;
+}
+.Icon_awesome_star_a {
+    overflow: visible;
+    position: absolute;
+    width: 11.624px;
+    height: 11.125px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome_star_b {
+    overflow: visible;
+    position: absolute;
+    width: 11.624px;
+    height: 11.125px;
+    left: 16.358px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_10038 {
+    position: absolute;
+    width: 509.006px;
+    height: 616.699px;
+    left: 782px;
+    top: 927.938px;
+    overflow: visible;
+}
+#Grupo_10037 {
+    position: absolute;
+    width: 297.725px;
+    height: 438.345px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_93 {
+    filter: drop-shadow(0px 10px 16px rgba(207, 221, 230, 0.706));
+    width: 297.725px;
+    height: 438.344px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(0px, 0px) matrix(1,0,0,1,0,0.0002) rotate(180deg);
+    transform-origin: center;
+}
+#nick_karvounis_Ciqxn7FE4vE_uns {
+    position: absolute;
+    width: 297.725px;
+    height: 140.418px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Pizza_Vicenzo {
+    position: absolute;
+    left: 21.076px;
+    top: 156.459px;
+    overflow: hidden;
+    width: 189.832px;
+    height: 25.805px;
+    line-height: 46px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(69,79,99,1);
+}
+#Grupo_10 {
+    position: absolute;
+    width: 56px;
+    height: 17px;
+    left: 121px;
+    top: 403.062px;
+    overflow: visible;
+}
+#Ver_mais {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 57px;
+    white-space: nowrap;
+    line-height: 22px;
+    margin-top: -5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(219,219,219,1);
+}
+#Distanciamento_de_1_5m {
+    position: absolute;
+    left: 24px;
+    top: 216.062px;
+    overflow: visible;
+    width: 152px;
+    white-space: nowrap;
+    line-height: 20px;
+    margin-top: -3px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(69,79,99,1);
+}
+#_lcool_gel {
+    position: absolute;
+    left: 24px;
+    top: 276.062px;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    line-height: 20px;
+    margin-top: -3px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(69,79,99,1);
+}
+#Grupo_de_at__6_pessoas {
+    position: absolute;
+    left: 24px;
+    top: 337.062px;
+    overflow: visible;
+    width: 148px;
+    white-space: nowrap;
+    line-height: 20px;
+    margin-top: -3px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(69,79,99,1);
+}
+#ID39_avalia__es {
+    position: absolute;
+    left: 22px;
+    top: 186.062px;
+    overflow: visible;
+    width: 66px;
+    white-space: nowrap;
+    line-height: 22px;
+    margin-top: -6.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9px;
+    color: rgba(165,165,165,1);
+}
+#Grupo_9917 {
+    position: absolute;
+    width: 87.718px;
+    height: 16.159px;
+    left: 23.781px;
+    top: 357.679px;
+    overflow: visible;
+}
+.ID74373 {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_p {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 18.584px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_q {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 37.167px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_r {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 55.751px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_s {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 74.334px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9918 {
+    position: absolute;
+    width: 87.718px;
+    height: 16.159px;
+    left: 23.781px;
+    top: 298.228px;
+    overflow: visible;
+}
+.ID74373_u {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_v {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 18.584px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_w {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 37.167px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_x {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 55.751px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_y {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 74.334px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9919 {
+    position: absolute;
+    width: 87.718px;
+    height: 16.159px;
+    left: 23.781px;
+    top: 237.862px;
+    overflow: visible;
+}
+.ID74373_ {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_a {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 18.584px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_b {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 37.167px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_c {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 55.751px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_d {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 74.334px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9921 {
+    position: absolute;
+    width: 64.106px;
+    height: 64.106px;
+    left: 207.117px;
+    top: 106.154px;
+    overflow: visible;
+}
+#Grupo_1285 {
+    position: absolute;
+    width: 64.106px;
+    height: 64.106px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_9920 {
+    position: absolute;
+    width: 64.106px;
+    height: 64.106px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_739 {
+    overflow: visible;
+    position: absolute;
+    width: 64.106px;
+    height: 64.106px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_e {
+    overflow: visible;
+    position: absolute;
+    width: 25.935px;
+    height: 31.311px;
+    left: 19.815px;
+    top: 16.463px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_10033 {
+    position: absolute;
+    width: 297.725px;
+    height: 438.345px;
+    left: 211.281px;
+    top: 178.354px;
+    overflow: visible;
+}
+.Ret_ngulo_93_b {
+    filter: drop-shadow(0px 10px 16px rgba(207, 221, 230, 0.706));
+    width: 297.725px;
+    height: 438.344px;
+    position: absolute;
+    overflow: visible;
+    transform: translate(0px, 0px) matrix(1,0,0,1,0,0.0002) rotate(180deg);
+    transform-origin: center;
+}
+#benjamin_zanatta_g9fd4Z3qwag_u {
+    position: absolute;
+    width: 297.725px;
+    height: 140.418px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_9923 {
+    position: absolute;
+    width: 56px;
+    height: 17px;
+    left: 120.719px;
+    top: 403.708px;
+    overflow: visible;
+}
+#Ver_mais_e {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 57px;
+    white-space: nowrap;
+    line-height: 22px;
+    margin-top: -5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgba(219,219,219,1);
+}
+#Distanciamento_de_1_5m_f {
+    position: absolute;
+    left: 23.719px;
+    top: 215.708px;
+    overflow: visible;
+    width: 152px;
+    white-space: nowrap;
+    line-height: 20px;
+    margin-top: -3px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(69,79,99,1);
+}
+#_lcool_gel_g {
+    position: absolute;
+    left: 23.719px;
+    top: 276.708px;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    line-height: 20px;
+    margin-top: -3px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(69,79,99,1);
+}
+#Grupo_de_at__6_pessoas_h {
+    position: absolute;
+    left: 23.719px;
+    top: 336.708px;
+    overflow: visible;
+    width: 148px;
+    white-space: nowrap;
+    line-height: 20px;
+    margin-top: -3px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(69,79,99,1);
+}
+#Grupo_9924 {
+    position: absolute;
+    width: 87.718px;
+    height: 16.159px;
+    left: 23.781px;
+    top: 357.679px;
+    overflow: visible;
+}
+.ID74373_j {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_k {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 18.584px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_l {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 37.167px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_m {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 55.751px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_n {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 74.334px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9925 {
+    position: absolute;
+    width: 87.718px;
+    height: 16.159px;
+    left: 23.781px;
+    top: 298.228px;
+    overflow: visible;
+}
+.ID74373_t {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_z {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 18.584px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_f {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 37.167px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_g {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 55.751px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_h {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 74.334px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9926 {
+    position: absolute;
+    width: 87.718px;
+    height: 16.159px;
+    left: 23.781px;
+    top: 237.862px;
+    overflow: visible;
+}
+.ID74373_i {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_o {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 18.584px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_baa {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 37.167px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_bab {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 55.751px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_bac {
+    overflow: visible;
+    position: absolute;
+    width: 13.384px;
+    height: 16.159px;
+    left: 74.334px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_9928 {
+    position: absolute;
+    width: 64.106px;
+    height: 64.106px;
+    left: 207.117px;
+    top: 106.154px;
+    overflow: visible;
+}
+#Grupo_1285_ {
+    position: absolute;
+    width: 64.106px;
+    height: 64.106px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Grupo_9920_ {
+    position: absolute;
+    width: 64.106px;
+    height: 64.106px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Caminho_739_ {
+    overflow: visible;
+    position: absolute;
+    width: 64.106px;
+    height: 64.106px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.ID74373_bad {
+    overflow: visible;
+    position: absolute;
+    width: 25.935px;
+    height: 31.311px;
+    left: 19.815px;
+    top: 16.464px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Bar_do_Joca {
+    position: absolute;
+    left: 23.82px;
+    top: 156.459px;
+    overflow: hidden;
+    width: 189.832px;
+    height: 25.805px;
+    line-height: 46px;
+    margin-top: -10.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(69,79,99,1);
+}
+#ID3_avalia__es {
+    position: absolute;
+    left: 24.719px;
+    top: 185.708px;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    line-height: 22px;
+    margin-top: -6.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9px;
+    color: rgba(165,165,165,1);
+}
+#Grupo_10041 {
+    position: absolute;
+    width: 1366px;
+    height: 49px;
+    left: 0px;
+    top: -1px;
+    overflow: visible;
+}
+.Ret_ngulo_2357 {
+    position: absolute;
+    overflow: visible;
+    width: 1366px;
+    height: 48px;
+    left: 0px;
+    top: 1px;
+}
+#Grupo_10040 {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 849px;
+    top: 0px;
+    overflow: visible;
+}
+#libras_simbolo_liguagem_de_sin {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Ret_ngulo_2356 {
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 5px;
+    left: 0px;
+    top: 0px;
+}
+.Elipse_150 {
+    position: absolute;
+    overflow: visible;
+    width: 33px;
+    height: 33px;
+    left: 995px;
+    top: 10px;
+}
+.Elipse_152 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 21px;
+    left: 1181px;
+    top: 16px;
+}
+.Elipse_151 {
+    position: absolute;
+    overflow: visible;
+    width: 33px;
+    height: 33px;
+    left: 1036px;
+    top: 10px;
+}
+.Elipse_153 {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 21px;
+    left: 1208px;
+    top: 16px;
+}
+#A_ {
+    position: absolute;
+    left: 1002px;
+    top: 16px;
+    overflow: visible;
+    width: 20px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(37,88,230,1);
+}
+#Contraste {
+    position: absolute;
+    left: 1104px;
+    top: 16px;
+    overflow: visible;
+    width: 72px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#Tamanho {
+    position: absolute;
+    left: 916px;
+    top: 16px;
+    overflow: visible;
+    width: 70px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255,255,255,1);
+}
+#A__j {
+    position: absolute;
+    left: 1043px;
+    top: 16px;
+    overflow: visible;
+    width: 19px;
+    white-space: nowrap;
+    line-height: 25px;
+    margin-top: -5.5px;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(37,88,230,1);
+}
