@@ -40,7 +40,7 @@ Agora segurança na hora de visitar um restaurante não é mais uma opção, é 
 
 <a id="apis-utilizadas"></a>
 
-## :rocket:  -  API's Utilizadas
+##  API's Utilizadas
 
 API's utilizadas no projeto
 
@@ -52,7 +52,7 @@ API's utilizadas no projeto
 
 <a id="tecnologias-utilizadas"></a>
 
-## :rocket:  -  Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -61,17 +61,26 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 <a id="como-usar"></a>
 
-## :fire:  -  Como usar ? 
+## Como usar ? 
 
-<a id="como-contribuir"></a>
+- ### **Pré-requisitos**
 
-## :recycle:  -  Como contribuir
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado na máquina
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
 
-- Faça um Fork desse repositório,
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
-- Push a sua branch: `git push origin my-feature`
+1. Faça um clone :
 
-## :memo:  -  License
+```sh
+  $ git clone https://github.com/armandobretas/toseguro.git
+```
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+2. Executando a Aplicação:
+
+```sh
+  # Instale as dependências
+  $ npm install
+
+  # Inicie o projeto
+  $ npm start
+
+```
