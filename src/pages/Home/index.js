@@ -1,19 +1,78 @@
-import React from "react";
-
-
-import img1 from '../../assets/elevate_snnhGYNqm44_unsplash.png'
-
+import React, { useState } from "react";
+import { useHistory } from 'react-router-dom';
+import { Modal } from "react-bootstrap";
+import img1 from "../../assets/elevate_snnhGYNqm44_unsplash.png";
 
 import "./styles.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 
-const Home: React.FC = () => {
+const Home = () => {
+  const history = useHistory();
+  const [city, setCity] = useState('')
+  const [show, setShow] = useState(false);
+  const [fontSizes, setFontSizes] = useState({
+    fsSpan: 16,
+    fsTitle: 48,
+  });
+  const handleClose = () => setShow(false);
+  const [darkTheme, setDarkTheme] = useState(false);
+
+  const handleSearch = () => {
+    history.push('/restaurantes', {cidade: city})
+  };
+
+  const handleFontSize = (a) => {
+    if (a === "+") {
+      setFontSizes({
+        fsSpan: fontSizes.fsSpan + 1,
+        fsTitle: fontSizes.fsTitle + 1,
+      });
+    } else {
+      setFontSizes({
+        fsSpan: fontSizes.fsSpan - 1,
+        fsTitle: fontSizes.fsTitle - 1,
+      });
+    }
+  };
+
+
+
   return (
-    <div id="institucional">
+    <div
+      id="institucional"
+      style={{ backgroundColor: darkTheme ? "#0e0b16" : "#F7F7FD" }}
+    >
+      <Modal show={show} onHide={handleClose}>
+        <Modal.Header closeButton></Modal.Header>
+        <Modal.Body>
+          <iframe
+            width="470"
+            height="416"
+            src="https://www.youtube.com/embed/du2XLAkUUHo?controls=0;autoplay=1;mute=0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          />
+        </Modal.Body>
+      </Modal>
+
       <div id="Vamos_sair_para_comer">
-        <span>Vamos sair para comer</span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle,
+            color: darkTheme ? "#fff" : "#2e266f",
+          }}
+        >
+          Vamos sair para comer
+        </span>
       </div>
       <div id="com_seguran_a_">
-        <span>com segurança?</span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle,
+            color: darkTheme ? "#fff" : "#2558e6",
+          }}
+        >
+          com segurança?
+        </span>
       </div>
       <svg className="Ret_ngulo_3">
         <rect
@@ -28,41 +87,87 @@ const Home: React.FC = () => {
         ></rect>
       </svg>
       <div id="Infome_a_sua_cidade">
-        <span>Infome a sua cidade</span>
+        <input
+          type="text"
+          onChange={(event) => setCity(event.target.value)}
+          placeholder="Informe sua cidade"
+        />
       </div>
       <div id="Header__19">
         <div id="Menu_Two">
-          <span style={{cursor:'pointer'}}>Sou restaurante</span>
+          <span
+            style={{
+              cursor: "pointer",
+              fontSize: fontSizes.fsSpan,
+              color: darkTheme ? "#fff" : "#41414d",
+            }}
+          >
+            Sou restaurante
+          </span>
         </div>
-        <div id="Menu_Two_ea" >
-          <span>Entrar / Cadastrar</span>
+        <div id="Menu_Two_ea">
+          <span
+            style={{
+              fontSize: fontSizes.fsSpan,
+              color: darkTheme ? "#fff" : "#2558e6",
+            }}
+          >
+            Entrar / Cadastrar
+          </span>
         </div>
         <div id="Menu_One">
-          <span style={{cursor:'pointer'}}>Como funciona</span>
+          <span
+            style={{
+              cursor: "pointer",
+              fontSize: fontSizes.fsSpan,
+              color: darkTheme ? "#fff" : "#41414d",
+            }}
+          >
+            Como funciona
+          </span>
         </div>
       </div>
       <div id="Agora_ficou__mais_seguros_sair">
-        <span>Agora ficou </span>
-        <span>mais seguros</span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle,
+            color: darkTheme ? "#fff" : "#2558e6",
+          }}
+        >
+          Agora ficou{" "}
+        </span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle,
+            color: darkTheme ? "#fff" : "#2558e6",
+          }}
+        >
+          mais seguros
+        </span>
         <br />
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle,
+            color: darkTheme ? "#fff" : "#2558e6",
+          }}
+        >
           sair para comer com
           <br /> amigos e com a família{" "}
         </span>
       </div>
       <div id="Com_a_ajuda_do_Sebrae__listamo">
-        <span>Com a ajuda do </span>
-        <span>Sebrae</span>
-        <span>
-          , listamos vários restaurantes da sua cidade!
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
+          Com a ajuda do Sebrae, listamos vários restaurantes da sua cidade!
           <br />
           <br />
-          Agora você pode
+          Agora você pode reservar um horário no seu restaurante preferido e de
+          quebra pode comer se sentindo seguro!
         </span>
-        <span> reservar um horário</span>
-        <span> no seu restaurante preferido e de quebra pode comer se </span>
-        <span>sentindo seguro</span>
-        <span>!</span>
       </div>
       <div id="Grupo_66">
         <svg className="Elipse_4_ef">
@@ -2489,7 +2594,14 @@ const Home: React.FC = () => {
         </svg>
       </div>
       <div id="Sou_restaurante__quero_me_cada">
-        <span>Sou restaurante, quero me cadastrar</span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
+          Sou restaurante, quero me cadastrar
+        </span>
       </div>
       <div id="Grupo_1">
         <svg className="Elipse_4_k">
@@ -3731,12 +3843,30 @@ const Home: React.FC = () => {
         </div>
       </div>
       <div id="Agora_seguran_a_na_hora_de_vis">
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           Agora segurança na hora de visitar um restaurante não é mais uma
           opção,
         </span>
-        <span> é uma necessidade</span>
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
+          {" "}
+          é uma necessidade
+        </span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           . Vamos te ajudar a escolher seu restaurante favorito e sentir
           segurança na hora de visitá-lo!
         </span>
@@ -3750,8 +3880,20 @@ const Home: React.FC = () => {
         src={require("../../assets/chad_montano_MqT0asuoIcU_unspl.png")}
       />
       <div id="Nesse_novo_mundo__p_s_covid__q">
-        <span>Nesse novo mundo, pós-covid, </span>
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
+          Nesse novo mundo, pós-covid,{" "}
+        </span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           queremos ir a um restaurante com nossa família, ou algum barzinho com
           os amigos de forma segura e sem aquele medo de se contaminar com o
           covid19, certo? <br />
@@ -3759,17 +3901,27 @@ const Home: React.FC = () => {
           Saber que não estaremos causando ou sendo vítimas de aglomerações em
           restaurantes faz toda diferença. Por isso, criamos o TôSeguro.{" "}
         </span>
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           Restaurantes vão manter seus estabelecimentos seguramente abertos e os
           clientes se sentirão seguros ao frequentar.
         </span>
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           {" "}
           Estamos aqui pra facilitar as suas reservas nos restaurantes da sua
           cidade!
         </span>
       </div>
-      <svg className="Caminho_11" viewBox="0 5.563 20.132 12.942">
+      <svg className="Caminho_11" style={{cursor:'pointer'}} onClick={handleSearch} viewBox="0 5.563 20.132 12.942">
         <path
           fill="rgba(46,38,111,1)"
           id="Caminho_11"
@@ -7419,15 +7571,32 @@ const Home: React.FC = () => {
         </div>
       </div>
       <div id="Como_Funciona">
-        <span>Como Funciona</span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle,
+            color: darkTheme ? "#fff" : "#2558e6",
+          }}
+        >
+          Como Funciona
+        </span>
       </div>
       <div id="Analise_e_escolha_o_restaurant">
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           Analise e escolha o restaurante mais seguro para você seus amigos.
         </span>
       </div>
       <div id="Voc__ter__acesso_a_v_rios_rest">
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           Você terá acesso a vários restaurantes e dados de segurança de cada
           região.
         </span>
@@ -7469,19 +7638,29 @@ const Home: React.FC = () => {
         ></rect>
       </svg>
       <div id="Voc__pode_filtrar_por__todo_ti">
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle / 2,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           Você pode filtrar por <br />
           todo tipo de restaurante{" "}
         </span>
       </div>
       <div id="Primeiro_voc___escolhe_a_cidad">
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle / 2,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           Primeiro você <br />
           escolhe a cidade
         </span>
       </div>
       <div id="Depois_de_escolhido___s__garan">
-        <span>
+        <span style={{ fontSize: fontSizes.fsTitle / 2 }}>
           Depois de escolhido é só
           <br />
           garantir sua reserva!
@@ -7494,20 +7673,37 @@ const Home: React.FC = () => {
         </span>
       </div>
       <div id="Os_restaurantes_da__sua_cidade">
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle,
+            color: darkTheme ? "#fff" : "#2558e6",
+          }}
+        >
           Os restaurantes da <br />
           sua cidade estão aqui
         </span>
       </div>
       <div id="Ainda_n_o_tem_cadastro__N_o_pe">
-        <span>
+        <span
+          style={{
+            fontSize: fontSizes.fsSpan,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
           Ainda não tem cadastro? Não perca tempo, ele é gratuito e te dá acesso
           a algumas promoções para poder fomentar a volta dos clientes pro seu
           negócio!
         </span>
       </div>
       <div id="Sou_restaurante">
-        <span>Sou restaurante</span>
+        <span
+          style={{
+            fontSize: fontSizes.fsTitle,
+            color: darkTheme ? "#fff" : "#41414d",
+          }}
+        >
+          Sou restaurante
+        </span>
       </div>
       <div id="Grupo_9892">
         <svg className="Ret_ngulo_2_zj">
@@ -7541,7 +7737,7 @@ const Home: React.FC = () => {
           src={require("../../assets/logo_mctic_horizontal_cor_grad.png")}
         />
       </div>
-      <svg className="Ret_ngulo_2_zp" style={{cursor:'pointer'}}>
+      <svg className="Ret_ngulo_2_zp" style={{ cursor: "pointer" }}>
         <rect
           fill="transparent"
           stroke="rgba(37,88,230,1)"
@@ -7563,10 +7759,7 @@ const Home: React.FC = () => {
         id="mae_mu_I7A_pHLcQK8_unsplash"
         src={require("../../assets/mae_mu_I7A_pHLcQK8_unsplash.png")}
       />
-      <img
-        id="elevate_snnhGYNqm44_unsplash"
-        src={img1}
-      />
+      <img id="elevate_snnhGYNqm44_unsplash" src={img1} />
       <div id="ID2944348">
         <svg className="Caminho_18910" viewBox="47.711 0 27.958 120.161">
           <path
@@ -8014,7 +8207,14 @@ const Home: React.FC = () => {
             src={require("../../assets/nick_karvounis_Ciqxn7FE4vE_uns.png")}
           />
           <div id="Pizza_Vicenzo">
-            <span>Pizza Vicenzo</span>
+            <span
+              style={{
+                position: "absolute",
+                marginTop: "-9px",
+              }}
+            >
+              Pizza Vicenzo
+            </span>
           </div>
           <div id="Grupo_10">
             <div id="Ver_mais">
@@ -8328,7 +8528,14 @@ const Home: React.FC = () => {
             </svg>
           </div>
           <div id="Bar_do_Joca">
-            <span>Bar do Joca</span>
+            <span
+              style={{
+                position: "absolute",
+                marginTop: "-9px",
+              }}
+            >
+              Bar do Joca
+            </span>
           </div>
           <div id="ID3_avalia__es">
             <span>3 avaliações</span>
@@ -8351,7 +8558,9 @@ const Home: React.FC = () => {
         <div id="Grupo_10040">
           <img
             id="libras_simbolo_liguagem_de_sin"
-            src={require('../../assets/libras_simbolo_liguagem_de_sin.png')}
+            onClick={() => setShow(true)}
+            style={{ cursor: "pointer" }}
+            src={require("../../assets/libras_simbolo_liguagem_de_sin.png")}
           />
           <svg className="Ret_ngulo_2356">
             <rect
@@ -8376,7 +8585,11 @@ const Home: React.FC = () => {
             cy="16.5"
           ></ellipse>
         </svg>
-        <svg className="Elipse_152">
+        <svg
+          className="Elipse_152"
+          style={{ cursor: "pointer" }}
+          onClick={() => setDarkTheme(false)}
+        >
           <ellipse
             fill="rgba(255,255,255,1)"
             stroke="rgba(37,88,230,1)"
@@ -8402,7 +8615,11 @@ const Home: React.FC = () => {
             cy="16.5"
           ></ellipse>
         </svg>
-        <svg className="Elipse_153">
+        <svg
+          className="Elipse_153"
+          style={{ cursor: "pointer" }}
+          onClick={() => setDarkTheme(true)}
+        >
           <ellipse
             fill="rgba(46,38,111,1)"
             id="Elipse_153"
@@ -8413,7 +8630,13 @@ const Home: React.FC = () => {
           ></ellipse>
         </svg>
         <div id="A_">
-          <span>A+</span>
+          <span
+            style={{ cursor: "pointer" }}
+            onClick={() => handleFontSize("+")}
+          >
+            {" "}
+            A+
+          </span>
         </div>
         <div id="Contraste">
           <span>Contraste</span>
@@ -8422,7 +8645,12 @@ const Home: React.FC = () => {
           <span>Tamanho</span>
         </div>
         <div id="A__j">
-          <span>A-</span>
+          <span
+            style={{ cursor: "pointer" }}
+            onClick={() => handleFontSize("-")}
+          >
+            A-
+          </span>
         </div>
       </div>
     </div>
