@@ -9,13 +9,13 @@
 body {
   font: 400 14px 'Montserrat', sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-color: #F7F7FD;
+  /* background-color: #F7F7FD; */
 }
 
 input,
 button,
 textarea {
-  font: 400 18px Roboto, sans-serif;
+  font: 400 18px 'Montserrat', sans-serif;
 }
 
 button {
