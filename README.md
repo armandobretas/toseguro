@@ -1,22 +1,25 @@
-<h4 align="center">
 
-   Link do [Site](https://bit.ly/2ZE7L3C)
-</h4>
-
-<h4 align="center">
-
-   Link do [Pitch]()
-</h4>
- 
-<h4 align="center">
-
-   Link do [Protótipo](https://xd.adobe.com/view/ed6664a0-1d73-42aa-a0be-15c3e7432df8-b835/) 
-</h4>
 
 <p align="center">
 
   <img alt="Telas" src="https://i.ibb.co/9pTGzdh/toseguro.png" >
 </p>
+
+<h4>
+
+   Link do [Site](https://bit.ly/2ZE7L3C)
+</h4>
+
+<h4>
+
+   Link do [Pitch]()
+</h4>
+ 
+<h4>
+
+   Link do [Protótipo](https://xd.adobe.com/view/ed6664a0-1d73-42aa-a0be-15c3e7432df8-b835/) 
+</h4>
+
 
 
 <p align="center">
@@ -24,7 +27,7 @@
   <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
 </p>
 
-#  -  Índice
+#   Índice
 
 - [Sobre](#sobre)
 - [API's utilizadas](#apis-utilizadas)
@@ -34,9 +37,9 @@
 
 <a id="sobre"></a>
 
-## :bookmark:  -  Sobre
+## Sobre
  
-Agora segurança na hora de visitar um restaurante não é mais uma opção, é uma necessidade. Vamos te ajudar a escolher seu restaurante favorito e sentir segurança na hora de visitá-lo
+Nesse novo mundo, pós-covid, queremos ir a um restaurante com nossa família, ou algum barzinho com os amigos de forma segura e sem aquele medo de se contaminar com o covid19, certo? Saber que não estaremos causando ou sendo vítimas de aglomerações em restaurantes faz toda diferença. Por isso, criamos o TôSeguro. Restaurantes vão manter seus estabelecimentos seguramente abertos e os clientes se sentirão seguros ao frequentar. Estamos aqui pra facilitar as suas reservas nos restaurantes da sua cidade!
 
 <a id="apis-utilizadas"></a>
 
@@ -44,11 +47,10 @@ Agora segurança na hora de visitar um restaurante não é mais uma opção, é 
 
 API's utilizadas no projeto
 
-- Dados COVID-19 - [GR1D](https://gr1d.io/)
 - Validação de usuário (CPF/CNPJ) - [GR1D](https://gr1d.io/)
 - Pesquisa de satisfação - [GR1D](https://gr1d.io/)
 - Raspadinha - [GR1D](https://gr1d.io/)
-- API Whatsapp - [TWILIO](https://www.twilio.com/)
+- API Whatsapp - [ZENVIA](https://zenvia.com/)
 
 <a id="tecnologias-utilizadas"></a>
 
