@@ -41,9 +41,7 @@ Nesse novo mundo, pós-covid, queremos ir a um restaurante com nossa família, o
 API's utilizadas no projeto
 
 - Dados Covid19 - [GR1D](https://gr1d.io/)
-- Validação de usuário (CPF/CNPJ) - [GR1D](https://gr1d.io/)
 - Pesquisa de satisfação - [GR1D](https://gr1d.io/)
-- Raspadinha - [GR1D](https://gr1d.io/)
 - API Whatsapp - [ZENVIA](https://zenvia.com/)
 
 <a id="tecnologias-utilizadas"></a>
