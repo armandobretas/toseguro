@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { useHistory } from 'react-router-dom';
+import { useHistory, Link } from "react-router-dom";
 import { Modal } from "react-bootstrap";
 import img1 from "../../assets/elevate_snnhGYNqm44_unsplash.png";
 
@@ -8,7 +8,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 const Home = () => {
   const history = useHistory();
-  const [city, setCity] = useState('')
+  const [city, setCity] = useState("");
   const [show, setShow] = useState(false);
   const [fontSizes, setFontSizes] = useState({
     fsSpan: 16,
@@ -18,7 +18,11 @@ const Home = () => {
   const [darkTheme, setDarkTheme] = useState(false);
 
   const handleSearch = () => {
-    history.push('/restaurantes', {cidade: city})
+    history.push("/restaurantes", { cidade: city });
+  };
+
+  const handleNavigateToRegister = () => {
+    history.push("/register");
   };
 
   const handleFontSize = (a) => {
@@ -34,8 +38,6 @@ const Home = () => {
       });
     }
   };
-
-
 
   return (
     <div
@@ -90,7 +92,7 @@ const Home = () => {
         <input
           type="text"
           onChange={(event) => setCity(event.target.value)}
-          placeholder="Informe sua cidade"
+          placeholder="Informe seu estado"
         />
       </div>
       <div id="Header__19">
@@ -110,9 +112,9 @@ const Home = () => {
             style={{
               fontSize: fontSizes.fsSpan,
               color: darkTheme ? "#fff" : "#2558e6",
-            }}
+            }} 
           >
-            Entrar / Cadastrar
+           <Link to='/register'> Entrar / Cadastrar </Link>
           </span>
         </div>
         <div id="Menu_One">
@@ -3921,7 +3923,12 @@ const Home = () => {
           cidade!
         </span>
       </div>
-      <svg className="Caminho_11" style={{cursor:'pointer'}} onClick={handleSearch} viewBox="0 5.563 20.132 12.942">
+      <svg
+        className="Caminho_11"
+        style={{ cursor: "pointer" }}
+        onClick={handleSearch}
+        viewBox="0 5.563 20.132 12.942"
+      >
         <path
           fill="rgba(46,38,111,1)"
           id="Caminho_11"

@@ -10,6 +10,7 @@
       content="Projeto desenvolvido durante o MegaHack edição 3"
     />
     <title>toseguro</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -31,7 +32,14 @@
     crossorigin
   ></script>
 
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAvFNDvvdzr_tHKDHeeMM3GtUzGtLYVpcE&libraries=places"></script>
+  <!-- unpkg, production (minified) -->
+  <script src="https://unpkg.com/react-leaflet/dist/react-leaflet.min.js"></script>
+  <!-- unpkg, development -->
+  <script src="https://unpkg.com/react-leaflet/dist/react-leaflet.js"></script>
+  <!-- CDNJS, production (minified) -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-leaflet/2.0.0/react-leaflet.min.js"></script>
+  <!-- CDNJS, development -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-leaflet/2.0.0/react-leaflet.js"></script>
 
   <script>
     var Alert = ReactBootstrap.Alert;

@@ -1,4 +1,11 @@
-span {
+
+ .leaflet-container {
+  height: 400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.header1 span .header2 span {
   cursor: pointer;
 }
 
@@ -55,8 +62,7 @@ span {
   width: 35%;
 }
 
-.sidebar small,
-h1 {
+.sidebar small, .sidebar h1 {
   color: #2e266f;
   font-weight: bold;
   margin-top: 5px;
@@ -114,4 +120,13 @@ h1 {
 
 .cardContent p {
   padding: 10px 0;
+}
+
+.covidgrid small {
+  color: #41414d;
+  font-weight: bolld;
+}
+
+.covidgrid small+small{
+  margin: 0 5px;
 }

@@ -1,11 +1,66 @@
-import React, { useEffect } from "react";
-
+import React, { useEffect, useState } from "react";
+import {useHistory} from 'react-router-dom'
+import { Map, TileLayer, Marker, Popup } from "react-leaflet";
+import axios from "axios";
 import "./styles.css";
+import { isNumber } from "util";
 
 const Restaurantes = (props) => {
+  const [mapVisible, setMapVisible] = useState(false);
+  const [initialPosition, setInitialPosition] = useState([0, 0]);
+  const [markers, setMarkers] = useState([]);
+  const [covidGrid, setCovidGrid] = useState({});
+
+  const history = useHistory();
+
+  const handleMapVisible = () => setMapVisible(!mapVisible);
+
+  const handleNavigateToRegister = () => {
+    history.push('/register')
+  }
+
+  const formatNumber = (number) => {
+    return number 
+  } 
+
   useEffect(() => {
-    console.log(props.history.location.state.cidade);
-  }, [props]);
+    handleGetMarkers();
+    handleGetCovidGrid();
+
+    navigator.geolocation.getCurrentPosition((position) => {
+      const { latitude, longitude } = position.coords;
+      setInitialPosition([latitude, longitude]);
+    });
+  }, []);
+
+  async function handleGetCovidGrid() {
+    try {
+      const response = await axios.get(
+        "https://gateway.gr1d.io/sandbox/covidAPI/v1/countries/Brazil",
+        {
+          headers: {
+            "X-Api-Key": "bcf60fc6-dda8-41b7-9f88-93ad92c78f60",
+          },
+        }
+      );
+      setCovidGrid(response.data);
+      console.log(response.data);
+    } catch (err) {
+      console.log(err);
+    }
+  }
+
+  async function handleGetMarkers() {
+    try {
+      const response = await axios.get(
+        "https://api.jsonbin.io/b/5f0224e30bab551d2b6c7bd6"
+      );
+      setMarkers(response.data);
+      console.log(response.data);
+    } catch (err) {
+      console.log(err);
+    }
+  }
 
   return (
     <>
@@ -69,13 +124,13 @@ const Restaurantes = (props) => {
         <div style={{ marginRight: 150 }}>
           <span>COMO FUNCIONA</span>
           <span>SOU RESTAURANTE</span>
-          <button type="button">ENTRAR / CADASTRAR</button>
+          <button type="button" onClick={handleNavigateToRegister}>ENTRAR / CADASTRAR</button>
         </div>
       </div>
 
       <div className="content">
         <div className="sidebar">
-          <small>Cidade</small>
+          <small>Estado</small>
           <h1>{props.history.location.state.cidade}</h1>
 
           <small className="itemMenu">SEGURANÇA NA REGIÃO</small>
@@ -136,17 +191,65 @@ const Restaurantes = (props) => {
 
           <a href="#">Filtros avançados</a>
         </div>
+
         <div className="results">
-          <div className="filters">
-            <span style={{ color: "#A5A5A5" }}>
-              Ordernar por: <b style={{ color: "#2558E6" }}>Recomendado</b>
-            </span>
-            <span>
-              <b style={{ color: "#2558E6" }}> Exibir Mapa </b>
-            </span>
+          <div
+            style={{ display: "flex", justifyContent: "column", width: "100%" }}
+          >
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "space-between",
+                width: "100%",
+              }}
+            >
+              <div className="covidgrid">
+                {mapVisible && (
+                  <>
+                    <small>Casos: <b>{covidGrid.cases && formatNumber(covidGrid.cases)}</b></small>
+                    <small>
+                      Recuperados: <b>{covidGrid.recovered && formatNumber(covidGrid.recovered)}</b>
+                    </small>
+                    <small>
+                      Ativos: <b>{covidGrid.active && formatNumber(covidGrid.active)}</b>
+                    </small>
+                    <small>
+                      Mortes: <b> {covidGrid.deaths && formatNumber(covidGrid.deaths)}</b>
+                    </small>
+                  </>
+                )}
+              </div>
+              <div className="filters">
+                <span style={{ color: "#A5A5A5" }}>
+                  Ordernar por: <b style={{ color: "#2558E6" }}>Recomendado</b>
+                </span>
+                <span onClick={handleMapVisible}>
+                  <b style={{ color: "#2558E6", cursor: "pointer" }}>
+                    {mapVisible ? "Fechar" : "Abrir"} Mapa
+                  </b>
+                </span>
+              </div>
+            </div>
           </div>
 
-          <div className="cards">
+          {mapVisible && (
+            <Map center={initialPosition} zoom={5} style={{ marginTop: 20 }}>
+              <TileLayer
+                attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+                url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"
+              />
+
+              {markers &&
+                markers.map((e, i) => (
+                  <Marker
+                    key={i}
+                    position={[parseFloat(e.lat), parseFloat(e.lng)]}
+                    title={`${e.uf} - Total: ${e.total}`}
+                  />
+                ))}
+            </Map>
+          )}
+          <div className="cards" style={{ marginTop: 10 }}>
             <div className="card">
               <img
                 src={require("../../assets/nick_karvounis_Ciqxn7FE4vE_uns.png")}
@@ -260,13 +363,18 @@ const Restaurantes = (props) => {
                   />
                 </div>
 
-                <span style={{textAlign: 'center', color: '#DBDBDB', marginTop: 30}}> 
+                <span
+                  style={{
+                    textAlign: "center",
+                    color: "#DBDBDB",
+                    marginTop: 30,
+                  }}
+                >
                   <b>Ver mais</b>
                 </span>
               </div>
             </div>
-         
-            
+
             <div className="card">
               <img
                 src={require("../../assets/benjamin_zanatta_g9fd4Z3qwag_u.png")}
@@ -380,14 +488,17 @@ const Restaurantes = (props) => {
                   />
                 </div>
 
-                <span style={{textAlign: 'center', color: '#DBDBDB', marginTop: 30}}> 
+                <span
+                  style={{
+                    textAlign: "center",
+                    color: "#DBDBDB",
+                    marginTop: 30,
+                  }}
+                >
                   <b>Ver mais</b>
                 </span>
               </div>
             </div>
-         
-
-
 
             <div className="card">
               <img
@@ -502,15 +613,17 @@ const Restaurantes = (props) => {
                   />
                 </div>
 
-                <span style={{textAlign: 'center', color: '#DBDBDB', marginTop: 30}}> 
+                <span
+                  style={{
+                    textAlign: "center",
+                    color: "#DBDBDB",
+                    marginTop: 30,
+                  }}
+                >
                   <b>Ver mais</b>
                 </span>
               </div>
             </div>
-         
-
-
-         
           </div>
         </div>
       </div>
