@@ -22,11 +22,6 @@
 
 
 
-<p align="center">
-
-  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
-</p>
-
 #   Índice
 
 - [Sobre](#sobre)
