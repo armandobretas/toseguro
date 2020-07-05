@@ -20,18 +20,26 @@ Nesse novo mundo, pós-covid, queremos ir a um restaurante com nossa família, o
 
 <h4>
 
-   Link do [Site](https://bit.ly/2ZE7L3C)
+   Link do [Pitch](https://youtu.be/zVQxi6pVCXk)
 </h4>
 
-<h4>
-
-   Link do [Pitch]()
-</h4>
- 
 <h4>
 
    Link do [Protótipo](https://xd.adobe.com/view/ed6664a0-1d73-42aa-a0be-15c3e7432df8-b835/) 
 </h4>
+
+<h4>
+
+   Link do [Demo]()
+</h4>
+
+<h4>
+
+   Link do [Site](https://bit.ly/2ZE7L3C)
+</h4>
+
+
+ 
 
 
 <a id="apis-utilizadas"></a>
