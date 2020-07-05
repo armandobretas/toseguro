@@ -7744,7 +7744,7 @@ const Home = () => {
           src={require("../../assets/logo_mctic_horizontal_cor_grad.png")}
         />
       </div>
-      <svg className="Ret_ngulo_2_zp" style={{ cursor: "pointer" }}>
+      <svg className="Ret_ngulo_2_zp" style={{ cursor: "pointer" }} onClick={handleNavigateToRegister}>
         <rect
           fill="transparent"
           stroke="rgba(37,88,230,1)"
